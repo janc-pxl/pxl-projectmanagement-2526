@@ -149,7 +149,7 @@ Wat is de uitdaging voor een bedrijf:
 
 De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[References/@vlaanderenintern_2014]]
 
-In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het **projectcharter**. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project. Verwar dit niet met het [[001 Wat is Projectmanagement#Plan van Aanpak]] (zie later). Het projectcharter geeft de brede kaders en goedkeuring, terwijl het plan van aanpak de praktische details en de aanpak voor het bereiken van de projectdoelen bevat.
+In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het **projectcharter**. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project. Verwar dit niet met het [[Project Management/001 Wat is Projectmanagement#Plan van Aanpak]] (zie later). Het projectcharter geeft de brede kaders en goedkeuring, terwijl het plan van aanpak de praktische details en de aanpak voor het bereiken van de projectdoelen bevat.
 
 In de praktijk blijkt vaak dat er bij de initiatie nog geen volwaardig projectteam is geïnstalleerd. Een projectidee ontstaat meestal binnen de functionele afdelingen van een bedrijf. Zij hebben een visie op het eindproduct, maar de praktische uitwerking krijgt in dit stadium nog niet de hoofdrol. De functionele teams krijgen tijdens het project hun stem in bijvoorbeeld een stuurgroep die zorgt voor de review, goedkeuring en opvolging van het project, of tijdens afstemmeetings. Ze worden actief betrokken bij het definiëren van de vereisten en bij de validatie en acceptatie van de deliverables.
 
@@ -162,7 +162,7 @@ Kernwoorden voor projectinitiatie zijn abstract niveau, onzekerheid (over oploss
 
 ![](https://i.imgur.com/uGPzai1.png)
 
-Bij het vastleggen van de projectscope moeten we onderscheid maken tussen de **productscope** en de **projectscope**. De productscope beschrijft de kenmerken en functionaliteiten van het eindproduct, terwijl de projectscope de activiteiten beschrijft die moeten worden uitgevoerd om dit product te realiseren. Dit verschil komt nog duidelijker naar voren wanneer we het gestructureerd weergeven: aan de ene kant hebben we de *‘product breakdown structure’* (PBS) en aan de andere kant de *‘work breakdown structure’* (WBS). Microsoft Project (zie [[002 Projectplanning#Hulpprogramma's\|later]]) is een tool die helpt bij het structureren van deze *work breakdown structures*. 
+Bij het vastleggen van de projectscope moeten we onderscheid maken tussen de **productscope** en de **projectscope**. De productscope beschrijft de kenmerken en functionaliteiten van het eindproduct, terwijl de projectscope de activiteiten beschrijft die moeten worden uitgevoerd om dit product te realiseren. Dit verschil komt nog duidelijker naar voren wanneer we het gestructureerd weergeven: aan de ene kant hebben we de *‘product breakdown structure’* (PBS) en aan de andere kant de *‘work breakdown structure’* (WBS). Microsoft Project (zie [[Project Management/002 Projectplanning#Hulpprogramma's\|later]]) is een tool die helpt bij het structureren van deze *work breakdown structures*. 
 
 > [!note] DEFINITIE: Product- en Projectscope
 > **Productscope**: De functies en kenmerken die een product of dienst definiëren.
@@ -450,7 +450,7 @@ Een nieuw project betekent voor de betrokken partijen nieuwe verplichtingen, nie
 
 De projectlevenscyclus is een reeks opeenvolgende fasen die een project doorloopt van start tot finish. Het aantal fasen en hun volgorde hangen af van het management, de behoeften van de betrokken organisatie, de aard van het project en de reikwijdte ervan. Elke fase heeft een duidelijk begin- en eindpunt, evenals controlepunten en is tijdgebonden. De projectlevenscyclus kan worden aangepast aan de specifieke behoeften en kenmerken van de organisatie. Hoewel elk project een uniek begin en einde heeft, kunnen de doelen, resultaten en activiteiten sterk variëren. De levenscyclus biedt een basisstructuur voor de acties die binnen het project moeten worden ondernomen, ongeacht het specifieke werk.
 
-Projectlevenscycli kunnen variëren van voorspellende (plangestuurde) benaderingen tot adaptieve (veranderingsgestuurde) benaderingen. Bij een voorspellende levenscyclus worden alle details aan het begin van het project vastgelegd en worden wijzigingen in de reikwijdte zorgvuldig beheerd. Aan de andere kant wordt bij een adaptieve levenscyclus het eindproduct ontwikkeld in meerdere iteraties, waarbij de gedetailleerde reikwijdte pas wordt bepaald aan het begin van elke iteratie. Adaptieve levenscycli zien we later in het hoofdstuk [[007 Agile Projectmanagement]]
+Projectlevenscycli kunnen variëren van voorspellende (plangestuurde) benaderingen tot adaptieve (veranderingsgestuurde) benaderingen. Bij een voorspellende levenscyclus worden alle details aan het begin van het project vastgelegd en worden wijzigingen in de reikwijdte zorgvuldig beheerd. Aan de andere kant wordt bij een adaptieve levenscyclus het eindproduct ontwikkeld in meerdere iteraties, waarbij de gedetailleerde reikwijdte pas wordt bepaald aan het begin van elke iteratie. Adaptieve levenscycli zien we later in het hoofdstuk [[Project Management/007 Agile Projectmanagement]]
 
 ### Karakteristieken van de Project Life Cycle
 
@@ -477,7 +477,7 @@ Met deze fasen zorgen projectmanagers ervoor dat projecten gestructureerd en suc
 > ![](https://i.imgur.com/AWlrNFV.png) 
 > Afbeelding: Project Life Cycle  ^d502ca
 
-Deze algemene levenscyclusstructuur is handig wanneer je te maken hebt met het hogere management of anderen die minder vertrouwd zijn met het project. Het is belangrijk om op te merken dat deze structuur vaak wordt verward met de projectmanagement procesgroepen (zie [[001 Wat is Projectmanagement#De Projectmanagement Proces Groepen]]). De procesgroepen bevatten, in tegenstelling tot de projectlevenscyclus, specifieke activiteiten die gericht zijn op het managen van het project zelf.
+Deze algemene levenscyclusstructuur is handig wanneer je te maken hebt met het hogere management of anderen die minder vertrouwd zijn met het project. Het is belangrijk om op te merken dat deze structuur vaak wordt verward met de projectmanagement procesgroepen (zie [[Project Management/001 Wat is Projectmanagement#De Projectmanagement Proces Groepen]]). De procesgroepen bevatten, in tegenstelling tot de projectlevenscyclus, specifieke activiteiten die gericht zijn op het managen van het project zelf.
 
 De levenscyclus van een project staat los van de levenscyclus van het eindresultaat van dat project.
 
@@ -588,10 +588,10 @@ Hieronder nog iets gedetailleerder welke gebeurtenissen en acties zich in iedere
 
 # Bibliografie
 
-- [[References/@sjoerdoldebijvank_2010\|@sjoerdoldebijvank_2010]]: _'\-'_ -  **\-(\-)** \-<br/><br/>
-- [[References/@vlaanderenintern_2014\|@vlaanderenintern_2014]]: _'\-'_ -  **\-(\-)** \-<br/><br/>
 - [[References/@gomez_2021\|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>
 - [[References/@hiteshbhasin_2015\|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>
+- [[References/@sjoerdoldebijvank_2010\|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>
 - [[References/@stevenblom_2018\|@stevenblom_2018]]: _'Moeten we kiezen tussen de klant en de medewerker?'_ -  **Steven Blom(2018)** https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/<br/><br/>
 - [[References/@vaneekhout_2018\|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>
+- [[References/@vlaanderenintern_2014\|@vlaanderenintern_2014]]: _'Business Case'_ -  **vlaanderen intern,(2014)** https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case<br/><br/>
 
