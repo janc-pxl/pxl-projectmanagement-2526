@@ -35,7 +35,7 @@ Terwijl Alan en Ian nog nagenieten van een McFlurry werken Dennis, Ray en John a
 
 Alle drie schatten ze per taak in hoelang een taak zal duren. John droomt van snel succes en schat de volledige ontwikkeling zeer optimistisch in (T<sub>o</sub>). Dennis heeft al slechte ervaringen uit zijn eerste Jurassic Park en maakt eerder pessimistische inschattingen (T<sub>p</sub>). Ray is de meest ervaren persoon in het team en schat alle activiteiten in als een goede gemiddelde inschatting (T<sub>l</sub>).
 
-Gebruik de [[002 Projectplanning#Tijdsfactor\|formule]] uit de cursus om de T<sub>e</sub> (expected time) te berekenen per taak, behalve bij taak I (`Veiligheid park testen`) die twee weken duurt.
+Gebruik de [[Project Management/002 Projectplanning#Tijdsfactor\|formule]] uit de cursus om de T<sub>e</sub> (expected time) te berekenen per taak, behalve bij taak I (`Veiligheid park testen`) die twee weken duurt.
 
 | activiteit | beschrijving               | voorafgaand | John | Ray | Dennis |
 | ---------- | -------------------------- | ----------- | ---- | --- | ------ |
@@ -84,7 +84,7 @@ De maand **juli** is vakantie voor iedereen. Deze vakantie plan je in onder de k
 
 Als overzichtstaak start hij met de concrete uitwerking van de <u>Analysefase</u>:
 
-De eerste taak in deze fase is *"het plan van aanpak"* uitwerken. Deze taak van het type [[002 Projectplanning#Vaste duur Vast Werk\|vaste duur]], duurt **10 dagen** en alle 5 de teamleden zullen hier aan deelnemen. Zodra het PvA klaar is, start Ray aan de *"risicoanalyse"*, een taak van **10 dagen**. Hij zal John Hammond vragen om hem te helpen bij deze taak zodat deze in de helft van de tijd klaar is. Dennis start op hetzelfde moment al met de *"technische analyse van het park"*. Een taak die hij inschat met een duur van **15 dagen**.
+De eerste taak in deze fase is *"het plan van aanpak"* uitwerken. Deze taak van het type [[Project Management/002 Projectplanning#Vaste duur Vast Werk\|vaste duur]], duurt **10 dagen** en alle 5 de teamleden zullen hier aan deelnemen. Zodra het PvA klaar is, start Ray aan de *"risicoanalyse"*, een taak van **10 dagen**. Hij zal John Hammond vragen om hem te helpen bij deze taak zodat deze in de helft van de tijd klaar is. Dennis start op hetzelfde moment al met de *"technische analyse van het park"*. Een taak die hij inschat met een duur van **15 dagen**.
 
 Na de analysefase, volgt de <u>Dinofase</u>:
 
@@ -104,7 +104,7 @@ Twee taken dienen nog uitgevoerd te worden:
 - Voorzie duidelijk de taken, subtaken, milestones met hun duur en volgorde
 - Duid het kritieke pad aan
 - Ken de taken toe
-- Stel de [[002 Projectplanning#Voortgangscontrole en beheer van kosten\|baseline]] in over het hele project
+- Stel de [[Project Management/002 Projectplanning#Voortgangscontrole en beheer van kosten\|baseline]] in over het hele project
 - Update het project zodat je de status toont zoals ze is op 1 januari 2026
 - Maak een notitie bij de laatste mijlpaal met volgende gegevens:
 > “Te weinig tijd en zekerheid of er voldoende stroom staat op de schrikdraad. We bekijken dit volgend jaar wel!”

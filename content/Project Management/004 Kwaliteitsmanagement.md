@@ -35,8 +35,8 @@ Ook voor onze onze onderwijsinstelling is kwaliteit van groot belang. [[Referenc
 
 ![](https://i.imgur.com/UsI1aLx.png)
 
-Dit model ondersteunt het [[004 Kwaliteitsmanagement#Belang van kwaliteit\|belang van de kwaliteit]] binnen PXL. 
-Initieel werd [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen\|dit plan]] opgesteld, de kwaliteit wordt uitgevoerd tijdens de metingen en voorgesteld in een [[004 Kwaliteitsmanagement#Plannen van kwaliteit\|formeel document ]]. Momenteel streeft de Hogeschool deze kwaliteit te blijven [[004 Kwaliteitsmanagement#Beheren van kwaliteit\|bewaren, en op zoek te gaan naar verbeterpunten]].
+Dit model ondersteunt het [[Project Management/004 Kwaliteitsmanagement#Belang van kwaliteit\|belang van de kwaliteit]] binnen PXL. 
+Initieel werd [[Project Management/004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen\|dit plan]] opgesteld, de kwaliteit wordt uitgevoerd tijdens de metingen en voorgesteld in een [[Project Management/004 Kwaliteitsmanagement#Plannen van kwaliteit\|formeel document ]]. Momenteel streeft de Hogeschool deze kwaliteit te blijven [[Project Management/004 Kwaliteitsmanagement#Beheren van kwaliteit\|bewaren, en op zoek te gaan naar verbeterpunten]].
 
 ## Belang van kwaliteit
 
@@ -50,7 +50,7 @@ Door te focussen op kwaliteit en het implementeren van kwaliteitscontroles, kunn
 
 Belangrijk voor het managen van kwaliteit, ook volgens het PRINCE2-model, is het aanmoedigen van een cultuur van continue verbetering. Door feedback te verzamelen over de kwaliteit (Beheren van kwaliteit) van producten en processen, kunnen projectteams hun huidige werkwijzen aanpassen en verbeteren voor toekomstige projecten. Kortom, kwaliteit is niet alleen een doel op zich, maar ook een middel om het succes van projecten te waarborgen, de risico's te beheersen en de tevredenheid van belanghebbenden te vergroten.
 
-Binnen projectwerking dienen eerst de doelen worden bepaald om aan klantverwachtingen te voldoen. ISO-standaarden bieden een raamwerk voor consistentie en verbetering en *metrics* zoals [[004 Kwaliteitsmanagement#Kritische Succesfactoren (KSF'en) en Kritische Prestatie-Indicatoren (KPI's)\|KSF (kritieke succesfactoren) en KPI's (kritieke prestatie-indicatoren)]] helpen bij het meten van prestaties en het sturen van verbeteringen.
+Binnen projectwerking dienen eerst de doelen worden bepaald om aan klantverwachtingen te voldoen. ISO-standaarden bieden een raamwerk voor consistentie en verbetering en *metrics* zoals [[Project Management/004 Kwaliteitsmanagement#Kritische Succesfactoren (KSF'en) en Kritische Prestatie-Indicatoren (KPI's)\|KSF (kritieke succesfactoren) en KPI's (kritieke prestatie-indicatoren)]] helpen bij het meten van prestaties en het sturen van verbeteringen.
 
 ## Het belang van goede kwaliteitsdoelen
 
@@ -291,7 +291,7 @@ Deze techniek omvat het voeren van gestructureerde of ongestructureerde gesprekk
 Denk hier bijvoorbeeld aan een interview met experts of het verzamelen van informatie via online bevragingen (*questionnaires*)
 ### Voorstellen van gegevens
 
-Gegevens verzamelen kost geld zoals besproken in hoofdstuk [[004 Kwaliteitsmanagement#Kosten van kwaliteit]]. Goede analyses kosten geld maar zorgen ook voor betere kwaliteit. Maak werk zoveel mogelijk inzichtelijk, zoals bijvoorbeeld de mindmap bij de brainstorm techniek. Of visualiseer je resultaten bij meerdere interviews.
+Gegevens verzamelen kost geld zoals besproken in hoofdstuk [[Project Management/004 Kwaliteitsmanagement#Kosten van kwaliteit]]. Goede analyses kosten geld maar zorgen ook voor betere kwaliteit. Maak werk zoveel mogelijk inzichtelijk, zoals bijvoorbeeld de mindmap bij de brainstorm techniek. Of visualiseer je resultaten bij meerdere interviews.
 
 ### Conclusie plannen van kwaliteit: In- en outputs
 
@@ -315,7 +315,7 @@ QA is verantwoordelijk voor het waarborgen van naleving van de vastgestelde kwal
 
 #### Beheer van processen
 
-Het beheer van processen omvat het plannen, implementeren, bewaken en verbeteren (zie de [[004 Kwaliteitsmanagement#Kwaliteit waarborgen\|Cirkel van Deming]]) van de operationele processen om de kwaliteit van producten en diensten te waarborgen. Processen worden gestandaardiseerd en gedocumenteerd om consistentie te waarborgen en om ervoor te zorgen dat alle betrokkenen op dezelfde manier werken. Door continu procesverbetering worden inefficiënties geïdentificeerd en worden optimalisaties doorgevoerd om de algehele kwaliteit en productiviteit te verbeteren. *#lessonsLearnedInLife*
+Het beheer van processen omvat het plannen, implementeren, bewaken en verbeteren (zie de [[Project Management/004 Kwaliteitsmanagement#Kwaliteit waarborgen\|Cirkel van Deming]]) van de operationele processen om de kwaliteit van producten en diensten te waarborgen. Processen worden gestandaardiseerd en gedocumenteerd om consistentie te waarborgen en om ervoor te zorgen dat alle betrokkenen op dezelfde manier werken. Door continu procesverbetering worden inefficiënties geïdentificeerd en worden optimalisaties doorgevoerd om de algehele kwaliteit en productiviteit te verbeteren. *#lessonsLearnedInLife*
 
 #### Impact op andere projecten
 
@@ -369,7 +369,7 @@ De volgende beschreven technieken zijn een kleine greep uit groot aanbod van vis
 
 Het doel van een affiniteitsdiagram is een complexe set van gegevens te groeperen zodat je verbanden kunt leggen en patronen kan identificeren. Daarna geeft men de gedefinieerde groepen een naam. Deze groepering noemt men thema's of gemeenschappelijke groepen. De officiële termen die men daarbij hanteert zijn affiniteitssets of affiniteitsgroepen. [[References/@beljaars_2020]]
 
-Deze techniek kan ook worden toegepast binnen een [[007 Agile Projectmanagement#Sprint Retrospective\|Sprint Retrospective]] meeting. Hierbij gaat het projectteam op zoek naar sterke en zwakke punten in de werking van het team binnen het project. Gemeenschappelijke opmerkingen van teamleden worden gegroepeerd en geprioriteerd. Bv.: verschillende teamleden melden dat zij een stijgend aantal klachten krijgen van klanten over de levertijden van de producten die via de website verkocht worden.
+Deze techniek kan ook worden toegepast binnen een [[Project Management/007 Agile Projectmanagement#Sprint Retrospective\|Sprint Retrospective]] meeting. Hierbij gaat het projectteam op zoek naar sterke en zwakke punten in de werking van het team binnen het project. Gemeenschappelijke opmerkingen van teamleden worden gegroepeerd en geprioriteerd. Bv.: verschillende teamleden melden dat zij een stijgend aantal klachten krijgen van klanten over de levertijden van de producten die via de website verkocht worden.
 
 ![](https://i.imgur.com/DxBBsDp.png)
 
@@ -519,13 +519,13 @@ In deze fase richt de organisatie zich richt op het bereiken van consistentie, b
 
 Bv.: Als gevolg van de *root cause* analyse uit ons voorbeeld (zie hoofdstuk Probleem management), besluit de verantwoordelijke van de inpakafdeling om geen innovatieve ideeën meer rechtstreeks te implementeren in de operationele omgeving, maar elk idee zal getest worden in een testomgeving met fictieve klanten. In deze nieuwe omgeving test men de accuraatheid en precisie van elk nieuw initiatief. De manager dient het proces voor goedkeuring van innovatieve projecten in (*Change Request (CR)*) in bij het management. Nieuwe projecten zullen voortaan aan nieuwe kwaliteitscriteria moeten voldoen alvorens men deze implementeert binnen de bestaande organisatie. Klanten zullen niet meer geimpacteerd worden door gekke ideeën van onze creatieve studenten.
 
-Voor de uitvoering van deze testomgeving dienen nieuwe doelstellingen beschreven te worden... Hence, terug naar [[004 Kwaliteitsmanagement#Belang van kwaliteit\|hoofdstuk 1 van deze cursus]].
+Voor de uitvoering van deze testomgeving dienen nieuwe doelstellingen beschreven te worden... Hence, terug naar [[Project Management/004 Kwaliteitsmanagement#Belang van kwaliteit\|hoofdstuk 1 van deze cursus]].
 
 ### Tools om gegevens te verzamelen
 
 Om processen te beheersen en verbeteren heb je nood aan gegevens. Informatie (of data) komt in diverse vormen. Denk aan de beschreven *metrics* in de planningsfase en gemeten in de uitvoeringsfase.
 
-Zo kan de tijdsduur waarin onze garagist de [[004 Kwaliteitsmanagement#Poka Yoke\|checklist]] doorloopt, informatie geven in de totale doorlooptijd van het proces. Dit kan leiden tot nieuwe verbeterinitiatieven.
+Zo kan de tijdsduur waarin onze garagist de [[Project Management/004 Kwaliteitsmanagement#Poka Yoke\|checklist]] doorloopt, informatie geven in de totale doorlooptijd van het proces. Dit kan leiden tot nieuwe verbeterinitiatieven.
 
 Tegenwoordig wordt alles gemeten met sensordata, questionnaires, etc. Nogmaals, meet je doelstellingen.
 
@@ -543,7 +543,6 @@ De output uit de uitvoeringsfase, kan als input dienen van de beheerfase. Ook de
 
 # Bibliografie
 
-- [[References/@wikipediakwaliteitsmanagement_2020\|@wikipediakwaliteitsmanagement_2020]]: _'\-'_ -  **\-(\-)** \-<br/><br/>
 - [[References/@beljaars_2020\|@beljaars_2020]]: _'Wat is een affiniteitsdiagram?'_ -  ** Beljaars, Peter(2020)** https://www.agile4all.nl/wat-is-een-affiniteitsdiagram/<br/><br/>
 - [[References/@hogeschoolpxl_2024\|@hogeschoolpxl_2024]]: _'Kwaliteitszorg'_ -  ** Hogeschool PXL, (2024)** https://www.pxl.be/Pub/Over-PXL/Kwaliteitszorg.html<br/><br/>
 - [[References/@leaninfo_2024\|@leaninfo_2024]]: _'Stroomdiagram - Een flowchart maakt uw proces inzichtelijk | LeanInfo.nl'_ -  ** Leaninfo(2024)** https://www.leaninfo.nl/stroomdiagram/<br/><br/>
@@ -552,4 +551,5 @@ De output uit de uitvoeringsfase, kan als input dienen van de beheerfase. Ook de
 - [[References/@cspo_2021\|@cspo_2021]]: _'Quality vs. Grade for PMP'_ -  **CSPO, Erin Aldridge, PMP, PMI-ACP, &(2021)** https://projectmanagementacademy.net/resources/blog/quality-vs-grade-pmp-guide/<br/><br/>
 - [[References/@governmentofwesternaustralia_2017\|@governmentofwesternaustralia_2017]]: _'Improvement tools: Critical success factors and key performance indicators'_ -  **Government of Western Australia,(2017)** https://www.agric.wa.gov.au/improvement-tools-critical-success-factors-and-key-performance-indicators<br/><br/>
 - [[References/@sickipedia_2021\|@sickipedia_2021]]: _'Het verschil tussen nauwkeurigheid en reproduceerbaarheid'_ -  **SICKipedia,(2021)** https://cdn.sick.com/media/content/hcc/hdf/9692943974430.pdf<br/><br/>
+- [[References/@wikipediakwaliteitsmanagement_2020\|@wikipediakwaliteitsmanagement_2020]]: _'Kwaliteitsmanagement'_ -  **Wikipedia kwaliteitsmanagement,(2020)** https://nl.wikipedia.org/w/index.php?title=Kwaliteitsmanagement&oldid=55870333<br/><br/>
 
