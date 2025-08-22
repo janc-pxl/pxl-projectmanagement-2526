@@ -25,7 +25,7 @@ Het idee achter het project '10.000 stappen' is eenvoudig: volwassenen voor wie 
 
 ## User Stories
 
-Om met deze oefening te starten dien je het begrip *"User Stories"* goed te begrijpen. Bij twijfel lees je best nog eens de paragraaf over [[Project Management/007 Agile Projectmanagement#User Stories (en Epics)\|User Stories]] uit de cursus.
+Om met deze oefening te starten dien je het begrip *"User Stories"* goed te begrijpen. Bij twijfel lees je best nog eens de paragraaf over [[007 Agile Projectmanagement#User Stories (en Epics)\|User Stories]] uit de cursus.
 
 ## Praktisch
 
@@ -48,7 +48,7 @@ PlanITPoker is een gratis online tool om storypunten in te schatten en die een k
 
 ## Storypoints
 
-Om met deze oefening te starten dien je het begrip *"Storypunten"* goed te begrijpen. Bij twijfel lees je best nog eens de paragraaf over [[Project Management/007 Agile Projectmanagement#Storypunten\|storypunten]] uit de cursus.
+Om met deze oefening te starten dien je het begrip *"Storypunten"* goed te begrijpen. Bij twijfel lees je best nog eens de paragraaf over [[007 Agile Projectmanagement#Storypunten\|storypunten]] uit de cursus.
 ## Praktisch
 
 Maak een gratis account aan op https://www.planitpoker.com/
