@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"999 Bibliografie","created":"2024-05-14T18:55:44.828+02:00","modified":"2025-08-22T08:42:33.761+02:00","cssclasses":""}
+{"publish":true,"title":"999 Bibliografie","created":"2024-05-14T18:55:44.828+02:00","modified":"2025-08-25T08:17:56.789+02:00","cssclasses":""}
 ---
 
 > [!INFO] Projectmanagement © Hogeschool PXL
 > 
-> **OLOD:** 42TIN1250 Projectmanagement
-> **Opleiding:** Professionele bachelor in de Toegepaste informatica
-> **Departement:** [PXL-Digital](https://www.pxl.be/digital) 
+> **OLOD:** 42TIN1250 Projectmanagement<br>
+> **Opleiding:** Professionele bachelor in de Toegepaste informatica<br>
+> **Departement:** [PXL-Digital](https://www.pxl.be/digital) <br>
 > **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
 
 ![](https://i.imgur.com/j1ZCLjO.png)
@@ -14,10 +14,10 @@
 <div style="page-break-after: always;"></div>
 
 ## Wat is Projectmanagement
-- [[References/@sjoerdoldebijvank_2010\|@sjoerdoldebijvank_2010]]: _'\-'_ -  **\-(\-)** \-<br/><br/>
 - [[References/@vlaanderenintern_2014\|@vlaanderenintern_2014]]: _'\-'_ -  **\-(\-)** \-<br/><br/>
 - [[References/@gomez_2021\|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>
 - [[References/@hiteshbhasin_2015\|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>
+- [[References/@sjoerdoldebijvank_2010\|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>
 - [[References/@stevenblom_2018\|@stevenblom_2018]]: _'Moeten we kiezen tussen de klant en de medewerker?'_ -  **Steven Blom(2018)** https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/<br/><br/>
 - [[References/@vaneekhout_2018\|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>
 

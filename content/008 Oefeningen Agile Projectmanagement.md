@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2024-09-12T08:23:38.836+02:00","modified":"2025-08-22T08:42:26.217+02:00","cssclasses":""}
+{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2024-09-12T08:23:38.836+02:00","modified":"2025-08-25T08:17:41.470+02:00","cssclasses":""}
 ---
 
 > [!INFO] Projectmanagement © Hogeschool PXL
 > 
-> **OLOD:** 42TIN1250 Projectmanagement
-> **Opleiding:** Professionele bachelor in de Toegepaste informatica
-> **Departement:** [PXL-Digital](https://www.pxl.be/digital) 
+> **OLOD:** 42TIN1250 Projectmanagement<br>
+> **Opleiding:** Professionele bachelor in de Toegepaste informatica<br>
+> **Departement:** [PXL-Digital](https://www.pxl.be/digital) <br>
 > **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
 
 ![](https://i.imgur.com/j1ZCLjO.png)

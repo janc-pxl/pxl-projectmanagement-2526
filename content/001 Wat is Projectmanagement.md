@@ -1,13 +1,13 @@
 ---
-{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2024-09-19T17:05:27.991+02:00","modified":"2025-08-22T08:59:10.261+02:00","cssclasses":""}
+{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2024-09-19T17:05:27.991+02:00","modified":"2025-08-25T08:16:40.309+02:00","cssclasses":""}
 ---
 
 > [!INFO] Projectmanagement © Hogeschool PXL
 > 
-> OLOD: 42TIN1250 Projectmanagement<br>
-> Opleiding: Professionele bachelor in de Toegepaste informatica<br>
-> Departement: [PXL-Digital](https://www.pxl.be/digital) <br>
-> Lectoren: [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
+> **OLOD:** 42TIN1250 Projectmanagement<br>
+> **Opleiding:** Professionele bachelor in de Toegepaste informatica<br>
+> **Departement:** [PXL-Digital](https://www.pxl.be/digital) <br>
+> **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
 
 ![](https://i.imgur.com/j1ZCLjO.png)
 
@@ -443,7 +443,7 @@ Een hoge werkdruk maakt het verleidelijk om buiten kantooruren door te werken. D
 Een nieuw project betekent voor de betrokken partijen nieuwe verplichtingen, nieuwe kansen op een hogere status of meer salaris, maar misschien ook nieuwe bedreigingen. Om alle partijen gemotiveerd te krijgen, moeten ze het gevoel hebben dat de eindbalans voor hen positief is. Een goede projectleider krijgt snel inzicht in dit nieuwe veld van belangen en kan, in het ideale geval, iedereen de garantie geven dat ze iets te winnen hebben bij een enthousiaste deelname aan het project.
 
 > [!caption]
-> ![[Project Management/media/1723288184476.jpg]]
+> ![[media/1723288184476.jpg]]
 > Afbeelding: Als inspirerende illustratie (geen leerstof)
 ## Wat is een Project Life Cycle en wat zijn de karakteristieken?
 ![](https://i.imgur.com/By7GLZB.png)
@@ -588,10 +588,10 @@ Hieronder nog iets gedetailleerder welke gebeurtenissen en acties zich in iedere
 
 # Bibliografie
 
-- [[References/@sjoerdoldebijvank_2010\|@sjoerdoldebijvank_2010]]: _'\-'_ -  **\-(\-)** \-<br/><br/>
 - [[References/@vlaanderenintern_2014\|@vlaanderenintern_2014]]: _'\-'_ -  **\-(\-)** \-<br/><br/>
 - [[References/@gomez_2021\|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>
 - [[References/@hiteshbhasin_2015\|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>
+- [[References/@sjoerdoldebijvank_2010\|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>
 - [[References/@stevenblom_2018\|@stevenblom_2018]]: _'Moeten we kiezen tussen de klant en de medewerker?'_ -  **Steven Blom(2018)** https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/<br/><br/>
 - [[References/@vaneekhout_2018\|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>
 

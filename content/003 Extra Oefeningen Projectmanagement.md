@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"003 Extra oefeningen Projectmanagement","created":"2024-10-11T09:44:27.423+02:00","modified":"2025-08-21T15:20:46.598+02:00","cssclasses":""}
+{"publish":true,"title":"003 Extra oefeningen Projectmanagement","created":"2024-10-11T09:44:27.423+02:00","modified":"2025-08-25T08:17:15.678+02:00","cssclasses":""}
 ---
 
 > [!INFO] Projectmanagement © Hogeschool PXL
 > 
-> **OLOD:** 42TIN1250 Projectmanagement
-> **Opleiding:** Professionele bachelor in de Toegepaste informatica
-> **Departement:** [PXL-Digital](https://www.pxl.be/digital) 
+> **OLOD:** 42TIN1250 Projectmanagement<br>
+> **Opleiding:** Professionele bachelor in de Toegepaste informatica<br>
+> **Departement:** [PXL-Digital](https://www.pxl.be/digital) <br>
 > **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
 
 ![](https://i.imgur.com/j1ZCLjO.png)
