@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2024-09-12T08:23:38.836+02:00","modified":"2025-08-25T08:22:58.056+02:00","cssclasses":""}
+{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2024-09-12T08:23:38.836+02:00","modified":"2025-08-25T08:27:29.463+02:00","cssclasses":""}
 ---
 
 > [!INFO] Projectmanagement © Hogeschool PXL
@@ -21,14 +21,7 @@
 
 Op de volgende url vind je een website van het Vlaams Instituut Gezond Leven.
 
-```cardlink
-url: https://10000stappen.gezondleven.be/
-title: "Home 10000 Stappen | Gezond Leven"
-description: "Het Vlaams Instituut Gezond Leven wil je op een toegankelijke manier helpen om gezond te leven. Met onderbouwd advies, concrete tips en kant-en-klare projecten."
-host: 10000stappen.gezondleven.be
-favicon: https://10000stappen.gezondleven.be/img/vigtie/favicon.png
-image: https://www.gezondleven.be/files/_1200x590_crop_center-center_none/hero-img-compressed-2.jpg
-```
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://10000stappen.gezondleven.be/" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">Home 10000 Stappen | Gezond Leven</div><div class="auto-card-link-description">Het Vlaams Instituut Gezond Leven wil je op een toegankelijke manier helpen om gezond te leven. Met onderbouwd advies, concrete tips en kant-en-klare projecten.</div><div class="auto-card-link-host"><span>10000stappen.gezondleven.be</span></div></div><img draggable="false" src="https://www.gezondleven.be/files/_1200x590_crop_center-center_none/hero-img-compressed-2.jpg" class="auto-card-link-thumbnail" /></a></div>
 
 Het idee achter het project '10.000 stappen' is eenvoudig: volwassenen voor wie de drempel naar sport te groot is, kunnen toch een actieve levensstijl opbouwen en gezondheidsvoordelen bekomen door dagelijks 10.000 stappen te zetten of 8000 stappen voor ouderen (>65 jaar).
 
@@ -60,15 +53,9 @@ PlanITPoker is een gratis online tool om storypunten in te schatten en die een k
 Om met deze oefening te starten dien je het begrip *"Storypunten"* goed te begrijpen. Bij twijfel lees je best nog eens de paragraaf over [[007 Agile Projectmanagement#Storypunten\|storypunten]] uit de cursus.
 ## Praktisch
 
-Maak een gratis account aan op PlanITpoker
+Maak een gratis account aan op de PlanITpoker site.
 
-```cardlink
-url: https://www.planitpoker.com/
-title: "PlanITpoker: Online Scrum planning poker for Agile project teams"
-description: "PlanITpoker is a cool on-line planning poker app that helps Agile project teams estimate projects easily. With a one click signup and always free, Try it today!"
-host: www.planitpoker.com
-favicon: https://www.planitpoker.com/favicon-192x192.png
-```
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://www.planitpoker.com/" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">PlanITpoker: Online Scrum planning poker for Agile project teams</div><div class="auto-card-link-description">PlanITpoker is a cool on-line planning poker app that helps Agile project teams estimate projects easily. With a one click signup and always free, Try it today!</div><div class="auto-card-link-host"><span>www.planitpoker.com</span></div></div></a></div>
 
 
 ### Start een Room 
@@ -205,3 +192,6 @@ Door deze methode worden de antwoorden van elk lid transparant en kan de discuss
 
 Doe een Sprint Retrospective, waar je terugkijkt hoe jullie als team de opdrachten van Permanente Evaluaties hebben aangepakt.
 
+
+
+<style>.auto-card-link-container{background-color:transparent;container-type:inline-size;position:relative;overflow:hidden;user-select:none;--auto-card-link-button-width:calc(var(--icon-size, 18px) + var(--size-2-3, 6px));--auto-card-link-indent-size:2.5em}&[data-auto-card-link-depth="1"]{margin-left:calc(var(--auto-card-link-indent-size) * 1)}&[data-auto-card-link-depth="2"]{margin-left:calc(var(--auto-card-link-indent-size) * 2)}&[data-auto-card-link-depth="3"]{margin-left:calc(var(--auto-card-link-indent-size) * 3)}&[data-auto-card-link-depth="4"]{margin-left:calc(var(--auto-card-link-indent-size) * 4)}&[data-auto-card-link-depth="5"]{margin-left:calc(var(--auto-card-link-indent-size) * 5)}&[data-auto-card-link-depth="6"]{margin-left:calc(var(--auto-card-link-indent-size) * 6)}&[data-auto-card-link-depth="7"]{margin-left:calc(var(--auto-card-link-indent-size) * 7)}.auto-card-link-title{white-space:normal!important;--lh:1.5em;line-height:var(--lh);height:calc(var(--lh) * 3);overflow:hidden;text-overflow:ellipsis}.auto-card-link-card{display:flex;flex-direction:row-reverse;height:8em;transition:20ms ease-in;cursor:pointer;text-decoration:none;color:var(--link-external-color,var(--highlight));background:var(--background-primary-alt,var(--darkgray));border:solid var(--border-width) var(--divider-color,var(--lightgray));border-radius:var(--radius-s,4px)}.auto-card-link-main{display:flex;flex-grow:1;flex-direction:column;justify-content:space-between;gap:.18em;padding:.5em .6em;overflow:hidden;text-align:left}.auto-card-link-description{overflow:hidden;--lh:1.4em;line-height:var(--lh);height:calc(var(--lh) * 3);color:var(--text-muted,var(--darkgray));font-size:var(--font-smallest, .9em)}.auto-card-link-host{font-size:var(--font-smallest, .9em);display:flex;flex-direction:row;align-items:center;text-overflow:ellipsis;white-space:nowrap}&:hover{color:var(--link-external-color-hover,var(--tertiary))}.auto-card-link-thumbnail{margin:0;width:unset!important;border-radius:var(--radius-s,4px) 0 0 var(--radius-s,4px)!important;height:100%;object-fit:cover;max-width:50%!important;pointer-events:none}.auto-card-link-container svg.external-icon{display: none}</style>
