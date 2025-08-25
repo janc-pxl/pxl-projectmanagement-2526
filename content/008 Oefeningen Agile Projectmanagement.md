@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2024-09-12T08:23:38.836+02:00","modified":"2025-08-25T08:17:41.470+02:00","cssclasses":""}
+{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2024-09-12T08:23:38.836+02:00","modified":"2025-08-25T08:22:58.056+02:00","cssclasses":""}
 ---
 
 > [!INFO] Projectmanagement © Hogeschool PXL
@@ -19,7 +19,16 @@
 
 ## Context
 
-Op https://10000stappen.gezondleven.be/ vind je een website van het Vlaams Instituut Gezond Leven.
+Op de volgende url vind je een website van het Vlaams Instituut Gezond Leven.
+
+```cardlink
+url: https://10000stappen.gezondleven.be/
+title: "Home 10000 Stappen | Gezond Leven"
+description: "Het Vlaams Instituut Gezond Leven wil je op een toegankelijke manier helpen om gezond te leven. Met onderbouwd advies, concrete tips en kant-en-klare projecten."
+host: 10000stappen.gezondleven.be
+favicon: https://10000stappen.gezondleven.be/img/vigtie/favicon.png
+image: https://www.gezondleven.be/files/_1200x590_crop_center-center_none/hero-img-compressed-2.jpg
+```
 
 Het idee achter het project '10.000 stappen' is eenvoudig: volwassenen voor wie de drempel naar sport te groot is, kunnen toch een actieve levensstijl opbouwen en gezondheidsvoordelen bekomen door dagelijks 10.000 stappen te zetten of 8000 stappen voor ouderen (>65 jaar).
 
@@ -51,7 +60,16 @@ PlanITPoker is een gratis online tool om storypunten in te schatten en die een k
 Om met deze oefening te starten dien je het begrip *"Storypunten"* goed te begrijpen. Bij twijfel lees je best nog eens de paragraaf over [[007 Agile Projectmanagement#Storypunten\|storypunten]] uit de cursus.
 ## Praktisch
 
-Maak een gratis account aan op https://www.planitpoker.com/
+Maak een gratis account aan op PlanITpoker
+
+```cardlink
+url: https://www.planitpoker.com/
+title: "PlanITpoker: Online Scrum planning poker for Agile project teams"
+description: "PlanITpoker is a cool on-line planning poker app that helps Agile project teams estimate projects easily. With a one click signup and always free, Try it today!"
+host: www.planitpoker.com
+favicon: https://www.planitpoker.com/favicon-192x192.png
+```
+
 
 ### Start een Room 
 
