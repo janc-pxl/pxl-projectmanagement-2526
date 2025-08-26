@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"Goedgekeurde PracTische vragen over Projectmanagement","created":"2024-09-11T14:29:39.978+02:00","modified":"2025-08-22T14:09:48.991+02:00","cssclasses":""}
+{"publish":true,"title":"Goedgekeurde PracTische vragen over Projectmanagement","created":"2024-09-11T14:29:39.978+02:00","modified":"2025-08-26T16:19:01.094+02:00","cssclasses":""}
 ---
 
 > [!INFO] Projectmanagement © Hogeschool PXL
 > 
-> **OLOD:** 42TIN1250 Projectmanagement
-> **Opleiding:** Professionele bachelor in de Toegepaste informatica
-> **Departement:** [PXL-Digital](https://www.pxl.be/digital) 
+> **OLOD:** 42TIN1250 Projectmanagement<br>
+> **Opleiding:** Professionele bachelor in de Toegepaste informatica<br>
+> **Departement:** [PXL-Digital](https://www.pxl.be/digital) <br>
 > **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
 
 ![](https://i.imgur.com/j1ZCLjO.png)
