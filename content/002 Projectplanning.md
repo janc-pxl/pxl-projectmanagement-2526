@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-08-27T08:50:37.910+02:00","cssclasses":""}
+{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-08-27T09:34:46.724+02:00","cssclasses":""}
 ---
 
 > [!info] Projectmanagement © Hogeschool PXL
@@ -7,7 +7,7 @@
 >> [!example] OLOD: 42TIN1250 Projectmanagement
 >> Opleiding: Professionele bachelor in de Toegepaste informatica
 >> Departement: [PXL-Digital](https://www.pxl.be/digital) 
- >>Lectoren: [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
+>> Lectoren: [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
 
 ![](https://i.imgur.com/j1ZCLjO.png)
 
