@@ -1,9 +1,8 @@
 ---
-{"publish":true,"title":"999 Bibliografie","created":"2024-05-14T18:55:44.828+02:00","modified":"2025-09-09T15:14:13.734+02:00","cssclasses":""}
+{"publish":true,"title":"999 Bibliografie","created":"2024-05-14T18:55:44.828+02:00","modified":"2025-09-09T15:21:44.853+02:00","cssclasses":""}
 ---
 
 > [!INFO] Projectmanagement © Hogeschool PXL
-> 
 > OLOD: 42TIN1250 Projectmanagement
 > Opleiding: Professionele bachelor in de Toegepaste informatica
 > Departement: [PXL-Digital](https://www.pxl.be/digital) 
