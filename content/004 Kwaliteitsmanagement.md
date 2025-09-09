@@ -1,13 +1,13 @@
 ---
-{"publish":true,"title":"004 Kwaliteitsmanagement","created":"2024-09-19T16:51:18.735+02:00","modified":"2025-08-25T08:17:19.492+02:00","cssclasses":""}
+{"publish":true,"title":"004 Kwaliteitsmanagement","created":"2024-09-19T16:51:18.735+02:00","modified":"2025-09-09T15:49:27.988+02:00","cssclasses":""}
 ---
 
-> [!INFO] Projectmanagement © Hogeschool PXL
-> 
-> **OLOD:** 42TIN1250 Projectmanagement<br>
-> **Opleiding:** Professionele bachelor in de Toegepaste informatica<br>
-> **Departement:** [PXL-Digital](https://www.pxl.be/digital) <br>
-> **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
+| Projectmanagement | © Hogeschool PXL                                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |
+| **Opleiding**     | Professionele bachelor in de Toegepaste informatica                                                                      |
+| **Departement**   | [PXL-Digital](https://www.pxl.be/digital)                                                                                |
+| **Lectoren**      | [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/) |
 
 ![](https://i.imgur.com/j1ZCLjO.png)
 
@@ -543,7 +543,6 @@ De output uit de uitvoeringsfase, kan als input dienen van de beheerfase. Ook de
 
 # Bibliografie
 
-- [[References/@wikipediakwaliteitsmanagement_2020\|@wikipediakwaliteitsmanagement_2020]]: _'\-'_ -  **\-(\-)** \-<br/><br/>
 - [[References/@beljaars_2020\|@beljaars_2020]]: _'Wat is een affiniteitsdiagram?'_ -  ** Beljaars, Peter(2020)** https://www.agile4all.nl/wat-is-een-affiniteitsdiagram/<br/><br/>
 - [[References/@hogeschoolpxl_2024\|@hogeschoolpxl_2024]]: _'Kwaliteitszorg'_ -  ** Hogeschool PXL, (2024)** https://www.pxl.be/Pub/Over-PXL/Kwaliteitszorg.html<br/><br/>
 - [[References/@leaninfo_2024\|@leaninfo_2024]]: _'Stroomdiagram - Een flowchart maakt uw proces inzichtelijk | LeanInfo.nl'_ -  ** Leaninfo(2024)** https://www.leaninfo.nl/stroomdiagram/<br/><br/>
@@ -552,4 +551,5 @@ De output uit de uitvoeringsfase, kan als input dienen van de beheerfase. Ook de
 - [[References/@cspo_2021\|@cspo_2021]]: _'Quality vs. Grade for PMP'_ -  **CSPO, Erin Aldridge, PMP, PMI-ACP, &(2021)** https://projectmanagementacademy.net/resources/blog/quality-vs-grade-pmp-guide/<br/><br/>
 - [[References/@governmentofwesternaustralia_2017\|@governmentofwesternaustralia_2017]]: _'Improvement tools: Critical success factors and key performance indicators'_ -  **Government of Western Australia,(2017)** https://www.agric.wa.gov.au/improvement-tools-critical-success-factors-and-key-performance-indicators<br/><br/>
 - [[References/@sickipedia_2021\|@sickipedia_2021]]: _'Het verschil tussen nauwkeurigheid en reproduceerbaarheid'_ -  **SICKipedia,(2021)** https://cdn.sick.com/media/content/hcc/hdf/9692943974430.pdf<br/><br/>
+- [[References/@wikipediakwaliteitsmanagement_2020\|@wikipediakwaliteitsmanagement_2020]]: _'Kwaliteitsmanagement'_ -  **Wikipedia kwaliteitsmanagement,(2020)** https://nl.wikipedia.org/w/index.php?title=Kwaliteitsmanagement&oldid=55870333<br/><br/>
 

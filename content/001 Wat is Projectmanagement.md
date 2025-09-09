@@ -1,13 +1,13 @@
 ---
-{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2024-09-19T17:05:27.991+02:00","modified":"2025-08-27T08:06:49.763+02:00","cssclasses":""}
+{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2024-09-19T17:05:27.991+02:00","modified":"2025-09-09T15:49:02.162+02:00","cssclasses":""}
 ---
 
-> [!INFO] Projectmanagement © Hogeschool PXL
-> 
-> **OLOD:** 42TIN1250 Projectmanagement
- **Opleiding:** Professionele bachelor in de Toegepaste informatica
- **Departement:** [PXL-Digital](https://www.pxl.be/digital) 
- **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
+| Projectmanagement | © Hogeschool PXL                                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |
+| **Opleiding**     | Professionele bachelor in de Toegepaste informatica                                                                      |
+| **Departement**   | [PXL-Digital](https://www.pxl.be/digital)                                                                                |
+| **Lectoren**      | [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/) |
 
 ![](https://i.imgur.com/j1ZCLjO.png)
 
@@ -118,7 +118,7 @@ Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leid
 > ![](https://i.imgur.com/602iRyY.png)
 > Afbeelding: Duivelsdriehoek [[References/@stevenblom_2018]]
 
-Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagementscenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.
+Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagementscenarios. Iets wat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.
 
 > [!caption] 
 > ![](https://i.imgur.com/Dww0uEV.png)
@@ -268,8 +268,8 @@ The business case: AuthenticClothes wil een online kledingwinkelopzetten genaamd
 
 - **Specifiek**: Verhoog de naamsbekendheid van AuthenticClothes door middel van sociale media marketing.
 - **Meetbaar**: Verkrijg minimaal 10.000 volgers op Instagram binnen zes maanden.
-- **Acceptabel**: Investeer in betaalde advertenties en samenwerkingen met invloedrijke social media-personen om de volgers te vergroten.
-- **Realistisch**: Sociale media is een essentieel marketingkanaal voor kledingwinkelsom een jong publiek te bereiken.
+- **Acceptabel**: Investeer in betaalde advertenties en samenwerkingen met invloedrijke socialmedia-personen om de volgers te vergroten.
+- **Realistisch**: Sociale media is een essentieel marketingkanaal voor kledingwinkels om een jong publiek te bereiken.
 - **Tijdsgebonden**: Bereik de doelstelling van 10.000 volgers binnen zes maanden na de lancering van ChicCloset
 
 ##### Doelstelling afdeling Financiën
@@ -588,10 +588,10 @@ Hieronder nog iets gedetailleerder welke gebeurtenissen en acties zich in iedere
 
 # Bibliografie
 
-- [[References/@vlaanderenintern_2014\|@vlaanderenintern_2014]]: _'\-'_ -  **\-(\-)** \-<br/><br/>
 - [[References/@gomez_2021\|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>
 - [[References/@hiteshbhasin_2015\|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>
 - [[References/@sjoerdoldebijvank_2010\|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>
 - [[References/@stevenblom_2018\|@stevenblom_2018]]: _'Moeten we kiezen tussen de klant en de medewerker?'_ -  **Steven Blom(2018)** https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/<br/><br/>
 - [[References/@vaneekhout_2018\|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>
+- [[References/@vlaanderenintern_2014\|@vlaanderenintern_2014]]: _'Business Case'_ -  **vlaanderen intern(2014)** https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case<br/><br/>
 
