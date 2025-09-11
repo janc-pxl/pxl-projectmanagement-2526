@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"004 Kwaliteitsmanagement","created":"2024-09-19T16:51:18.735+02:00","modified":"2025-09-09T15:49:27.988+02:00","cssclasses":""}
+{"publish":true,"title":"004 Kwaliteitsmanagement","created":"2024-09-19T16:51:18.735+02:00","modified":"2025-09-11T12:07:12.183+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -208,6 +208,7 @@ Kwaliteitsmanagement richt zich op het voorkomen van fouten. Door toepassing van
 ![](https://i.imgur.com/rbd0eKE.png)
 
 Een bekende en de meest herkenbare vorm van een Poka Yoké is een checklist. Denk bijvoorbeeld aan een garagist die een auto nakijkt aan de hand van een duidelijk stappenplan. Er worden geen stappen overgeslagen zodat je een snelle en kwalitatieve service krijgt.
+[[References/@shindeWhatPoka2025]]
 
 ![](https://i.imgur.com/aj2xvA6.png)
 
@@ -242,9 +243,10 @@ De cirkel beschrijft vier activiteiten die op alle verbeteringen in organisaties
 | Act        | Bijstellen aan de hand van de gevonden resultaten bij CHECK                                                                                     |
 
 Kern van deze visie is dat elke medewerker aan een (productie-) proces op deze manier in staat is om zijn eigen werkwijze te beoordelen en te verbeteren. De handelingen van de medewerker vormen namelijk een eigen deelproces van het hoger gelegen proces. Management dient de analyse te doen over de hoger gelegen processen, de directie voor de primaire bedrijfsprocessen. Deze kwaliteitscirkel-*methode* wordt vaker onbewust impliciet dan bewust expliciet toegepast.
+[[References/@nguyenMasterPDCA2016]]
 
 > [!info] Informatief
-> Deming heeft zijn cirkel gebaseerd op de verbetercirkel van de natuurkundige Walter A. Shewhart. Zelf heeft Deming hem ook altijd de Shewhart-cirkel of PDSA-cyclus genoemd. De enige verandering die Deming later heeft doorgevoerd is de term 'Study' van Shewhart te vervangen door de term 'Check' omdat dit beter aansluit bij de bedoeling van die stap. Zo ontstond de PDCA-cyclus.*
+> Deming heeft zijn cirkel gebaseerd op de verbetercirkel van de natuurkundige Walter A. Shewhart. Zelf heeft Deming hem ook altijd de Shewhart-cirkel of PDSA-cyclus genoemd. De enige verandering die Deming later heeft doorgevoerd is de term 'Study' van Shewhart te vervangen door de term 'Check' omdat dit beter aansluit bij de bedoeling van die stap. Zo ontstond de PDCA-cyclus.
 
 Naast de cirkel van Deming bestaan er nog enkele andere systemen ten voordele van kwaliteit en risicobeheersing, maar deze behandelen we niet verder in de cursus.
 
@@ -377,7 +379,7 @@ Deze techniek kan ook worden toegepast binnen een [[007 Agile Projectmanagement#
 
 Het Ishikawa-diagram (ook wel bekend als visgraatdiagram) is een hulpmiddel dat bedoeld is om mogelijke oorzaken van problemen in kaart te brengen. Deze methode werd ontwikkeld door Kaoru Ishikawa die destijds werkzaam was bij Kawasaki Heavy Industries in Japan. Hij zag dat de mensen in de fabriek vaak werden overweldigd door het grote aantal factoren dat (mogelijk) van invloed was op een proces. Om dit makkelijker en overzichtelijker te maken, bedacht hij een eenvoudig en grafisch hulpmiddel om potentiële oorzaken van een probleem of een effect ordelijk weer te geven. Het doel is om de output van de brainstorm te kunnen structureren en niet zoals vaak gedacht het oplossen van een bestaand probleem. De methode is oorspronkelijk vooral van toepassing op productieprocessen en de bijbehorende kwaliteitscontrole. [[References/@wikipedia_2023]]
 
-Het diagram helpt bij het zoeken naar de oorzaken voor een bepaald gevolg. Het hulpmiddel kan dienen als root cause analyse (Probleem management), maar het helpt een projectteam ook om enkele primaire en secundaire oorzaken te vinden, gegroepeerd binnen verschillende domeinen (Affinity diagram), voor een gegeven gevolg. Vervolgens kan de projectmanager of het projectteam prioriteiten bepalen om de zwakheden uit een proces te halen. Deze analyse kan als input dienen voor een volgende *continual improvement* initiatief.
+Het diagram helpt bij het zoeken naar de oorzaken voor een bepaald gevolg. Het hulpmiddel kan dienen als root cause analyse (Probleem management), maar het helpt een projectteam ook om enkele primaire en secundaire oorzaken te vinden, gegroepeerd binnen verschillende domeinen (Affinity diagram), voor een gegeven gevolg. Vervolgens kan de projectmanager of het projectteam prioriteiten bepalen om de zwakheden uit een proces te halen. Deze analyse kan als input dienen voor een volgende *continual improvement* initiatief. [[References/@costaUnderstandingIshikawa2025]]
 
 ![](https://i.imgur.com/7Pmpg6O.png)
 
@@ -544,8 +546,11 @@ De output uit de uitvoeringsfase, kan als input dienen van de beheerfase. Ook de
 # Bibliografie
 
 - [[References/@beljaars_2020\|@beljaars_2020]]: _'Wat is een affiniteitsdiagram?'_ -  ** Beljaars, Peter(2020)** https://www.agile4all.nl/wat-is-een-affiniteitsdiagram/<br/><br/>
+- [[References/@costaUnderstandingIshikawa2025\|@costaUnderstandingIshikawa2025]]: _'Understanding the Ishikawa Diagram | KAIZEN™ Article'_ -  ** Costa, Ines(2025)** https://kaizen.com/insights/ishikawa-diagram-root-cause-analysis/<br/><br/>
 - [[References/@hogeschoolpxl_2024\|@hogeschoolpxl_2024]]: _'Kwaliteitszorg'_ -  ** Hogeschool PXL, (2024)** https://www.pxl.be/Pub/Over-PXL/Kwaliteitszorg.html<br/><br/>
 - [[References/@leaninfo_2024\|@leaninfo_2024]]: _'Stroomdiagram - Een flowchart maakt uw proces inzichtelijk | LeanInfo.nl'_ -  ** Leaninfo(2024)** https://www.leaninfo.nl/stroomdiagram/<br/><br/>
+- [[References/@nguyenMasterPDCA2016\|@nguyenMasterPDCA2016]]: _'Master the PDCA Cycle for Effective Improvement - Click to Learn More!'_ -  ** Nguyen, Jasmine(2016)** https://www.heflo.com/blog/pdca-cycle<br/><br/>
+- [[References/@shindeWhatPoka2025\|@shindeWhatPoka2025]]: _'What is Poka Yoke? The Ultimate Guide to Manufacturing Mistake-Proofing • FlowFuse'_ -  ** Shinde, Sumit(2025)** https://flowfuse.com/blog/2025/09/poka-yoke-mistake-proofing/<br/><br/>
 - [[References/@stefanowicz_2024\|@stefanowicz_2024]]: _'15 Essential Help Desk Metrics & KPIs [+ Best Practices]'_ -  ** Stefanowicz, Beata(2024)** https://www.tidio.com/blog/helpdesk-metrics/<br/><br/>
 - [[References/@wikipedia_2023\|@wikipedia_2023]]: _'Ishikawa-diagram'_ -  ** Wikipedia(2023)** https://nl.wikipedia.org/w/index.php?title=Ishikawa-diagram&oldid=63986119<br/><br/>
 - [[References/@cspo_2021\|@cspo_2021]]: _'Quality vs. Grade for PMP'_ -  **CSPO, Erin Aldridge, PMP, PMI-ACP, &(2021)** https://projectmanagementacademy.net/resources/blog/quality-vs-grade-pmp-guide/<br/><br/>

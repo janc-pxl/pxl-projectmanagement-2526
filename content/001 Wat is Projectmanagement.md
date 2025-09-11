@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2024-09-19T17:05:27.991+02:00","modified":"2025-09-11T09:30:05.090+02:00","cssclasses":""}
+{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2024-09-19T17:05:27.991+02:00","modified":"2025-09-11T11:45:30.763+02:00","cssclasses":""}
 ---
-
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -130,7 +129,7 @@ Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leid
 
 ### Van Driehoek naar Vierkant
 
-Het klassieke model van de **Duivelsdriehoek** schiet vaak tekort in echte projectmanagementscenarios. Daarom introduceren we het concept van een **Duivelsvierkant** met de **opdracht** (scope) als vierde variabele.
+Het klassieke model van de **Duivelsdriehoek** schiet vaak tekort in echte projectmanagementscenarios. Daarom introduceren we het concept van een **Duivelsvierkant** met de **opdracht** (scope) als vierde variabele. [[References/@pradeepProjectManagement2024]]
 
 > [!caption] 
 > ![](https://i.imgur.com/Dww0uEV.png)
@@ -139,6 +138,7 @@ Het klassieke model van de **Duivelsdriehoek** schiet vaak tekort in echte proje
 In de praktijk staat de opdracht of scope van een project zelden vanaf het begin vast. Veranderingen in de projectomvang beïnvloeden significant de andere drie variabelen: tijd, kwaliteit en budget.
 
 Het uitbreiden van de opdracht tijdens een project, bekend als **scope creep**, kan leiden tot hogere kosten en vertragingen. Het is cruciaal deze uitbreidingen strikt te monitoren.
+[[References/@ScopeCreep2024]]
 
 **IT-voorbeeld**: Een eenvoudige website wordt tijdens ontwikkeling uitgebreid met een webshop, gebruikersaccounts en een mobiele app - dit vereist herziening van tijd, budget en/of kwaliteit.
 
@@ -361,6 +361,8 @@ De **Work Breakdown Structure (WBS)** is een grafische weergave, vaak in de vorm
 > ![](https://i.imgur.com/VzeScMn.png)
 > Afbeelding: Voorbeeld van een Work Breakdown Structure
 
+[[References/@jurcicWorkBreakdown2025]]
+
 **IT-voorbeeld: Website Development Project**
 
 ```
@@ -409,6 +411,7 @@ RACI-informatie laat toe voor een WBS-element aan te geven:
 - De A- en C-rollen hebben impliciet ook de I-rol
 - Minimaliseer het aantal C- en I-rollen
 - In de matrix zo min mogelijk A, R, C en I's invullen, maar wel zodanig dat het werk gebeurt
+[[References/@RACIMatrix2024]]
 
 ## Projectmanagement en taken van een Projectmanager
 
@@ -748,6 +751,10 @@ Het volgende hoofdstuk gaat dieper in op projectplanning en de tools die daarbij
 
 # Bibliografie
 
+- [[References/@ScopeCreep2024\|@ScopeCreep2024]]: _'Scope Creep: Wat is het en hoe krijg je het onder de knie? (Wiki)'_ -  **(2024)** https://tryve.eu/nl/wiki/scope-creep/<br/><br/>
+- [[References/@RACIMatrix2024\|@RACIMatrix2024]]: _'RACI Matrix: Wat is het en hoe krijg je het onder de knie? (Wiki)'_ -  **(2024)** https://tryve.eu/nl/wiki/raci-matrix/<br/><br/>
+- [[References/@jurcicWorkBreakdown2025\|@jurcicWorkBreakdown2025]]: _'Work Breakdown Structure in Project Management: Short Guide'_ -  ** Jurčić, Marin(2025)** https://productive.io/blog/work-breakdown-structure-in-project-management<br/><br/>
+- [[References/@pradeepProjectManagement2024\|@pradeepProjectManagement2024]]: _'The Project Management Diamond: A Comprehensive Guide to Balancing Scope, Time, Cost, and Quality'_ -  ** Pradeep, (2024)** https://www.jiitak.com/blog/project-management-diamond-guide<br/><br/>
 - [[References/@gomez_2021\|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>
 - [[References/@hiteshbhasin_2015\|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>
 - [[References/@sjoerdoldebijvank_2010\|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-09-09T15:49:16.566+02:00","cssclasses":""}
+{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-09-11T11:56:49.275+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -43,8 +43,8 @@ Belangrijke voordelen van netwerkplanning zijn:
 - Het opsporen van bottlenecks
 
 > [!INFO] Geschiedenis
-> De PERT methode is uitgevonden door de United States Department of Defense's US Navy Special Projects Office in 1958 als een onderdeel van het Polaris project. De PERT methode lijkt sterk op de kritieke pad methode. Bij de kritische pad methode wordt uitgegaan van de gesommeerde duur van het kritieke pad, terwijl in de PERT methode een kansberekening wordt toegepast.*
-
+> De PERT methode is uitgevonden door de United States Department of Defense's US Navy Special Projects Office in 1958 als een onderdeel van het Polaris project. De PERT methode lijkt sterk op de kritieke pad methode. Bij de kritische pad methode wordt uitgegaan van de gesommeerde duur van het kritieke pad, terwijl in de PERT methode een kansberekening wordt toegepast.
+[[References/@geeksforgeeksDifferencePERT2025]]
 
 ### Hoofdbegrippen
 #### Knooppunt
@@ -285,7 +285,7 @@ De blauwe balken zijn taken die uitgevoerd moeten worden. De pijlen geven condit
 ### Hulpprogramma's
 
 Er zijn verschillende programma's die gebruikt kunnen worden voor het maken van een Gantt-grafiek. Voor een simpel figuurtje volstaat het om een spreadsheet bepaalde cellen te kleuren. Voor geavanceerdere figuren kunnen programma's als het gratis Open Source Gantt-project, Microsoft Visio, Microsoft Project of de gebruikelijke projectmanagementpakketten gebruikt worden.
-
+[[References/@gillinghamWhatMicrosoft2023]]
 ### Toewijzing van hulpmiddelen
 
 Aan elke activiteit kunnen we bepaalde hulpmiddelen toekennen (vb. computers, mensen, …).
@@ -704,6 +704,8 @@ Opmerking : bijkomende gegevens : toewijzing van de taken :
 
 # Bibliografie
 
+- [[References/@geeksforgeeksDifferencePERT2025\|@geeksforgeeksDifferencePERT2025]]: _'Difference Between PERT and CPM'_ -  ** geeksforgeeks(2025)** https://www.geeksforgeeks.org/software-engineering/difference-between-pert-and-cpm/<br/><br/>
+- [[References/@gillinghamWhatMicrosoft2023\|@gillinghamWhatMicrosoft2023]]: _'What is Microsoft Project? A Comprehensive Overview'_ -  ** Gillingham, Jacob(2023)** https://www.invensislearning.com/blog/what-is-microsoft-project/<br/><br/>
 - [[References/@kypproject_2023\|@kypproject_2023]]: _'Hoe maak je een projectplanning? | KYP Project'_ -  **kypproject,(2023)** https://kypproject.com/nl/blog/hoe-maak-je-een-projectplanning/<br/><br/>
 - [[References/@schegget.hamelink_1993\|@schegget.hamelink_1993]]: _'Netwerkplanning volgens PERT'_ -  **Schegget, ter, P.J.; Hamelink, L.J.(1993)** https://research.tue.nl/files/4340148/501362.pdf<br/><br/>
 - [[References/@teamleader_2018\|@teamleader_2018]]: _'Hoe stel je een projectplan op? (gratis template) | Teamleader'_ -  **Teamleader,(2018)** https://www.teamleader.be/nl-be/blog/projectplan-template<br/><br/>
