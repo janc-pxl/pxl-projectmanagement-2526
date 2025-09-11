@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2024-09-19T17:05:27.991+02:00","modified":"2025-09-10T15:30:31.049+02:00","cssclasses":""}
+{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2024-09-19T17:05:27.991+02:00","modified":"2025-09-11T09:30:05.090+02:00","cssclasses":""}
 ---
 
 
@@ -745,6 +745,8 @@ Projectmanagement is essentieel geworden in onze moderne wereld waar organisatie
 Of je nu een app ontwikkelt, een netwerk implementeert of een database migreert - projectmanagementprincipes helpen je succesvol te zijn in de dynamische IT-wereld.
 
 Het volgende hoofdstuk gaat dieper in op projectplanning en de tools die daarbij gebruikt worden.
+
+# Bibliografie
 
 - [[References/@gomez_2021\|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>
 - [[References/@hiteshbhasin_2015\|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>
