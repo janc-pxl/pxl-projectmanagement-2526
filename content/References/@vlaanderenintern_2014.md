@@ -1,7 +1,11 @@
 ---
-{"publish":true,"title":"Business Case","created":"2024-05-13T11:02:42.014+02:00","modified":"2025-09-09T15:33:00.278+02:00","cssclasses":""}
+publish: true
+category: References
+title: "Business Case"
+authors: vlaanderen intern
+year: 2014 
+url: https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case
 ---
-
 
 # Business Case
 

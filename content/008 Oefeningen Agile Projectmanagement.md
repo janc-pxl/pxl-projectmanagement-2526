@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2024-09-12T08:23:38.836+02:00","modified":"2025-09-09T15:49:50.612+02:00","cssclasses":""}
+publish: true
+title: 008 Oefeningen Agile Projectmanagement
+category: content
+order: 8
 ---
-
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |

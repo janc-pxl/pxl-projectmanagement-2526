@@ -1,7 +1,15 @@
 ---
-{"publish":true,"title":"PUE and how much energy ChatGPT consumes","created":"2024-09-09T15:09:03.187+02:00","modified":"2025-08-22T14:10:06.027+02:00","cssclasses":""}
+publish: true
+category: References
+title: "PUE and how much energy ChatGPT consumes"
+citekey: "salzmann_2023"
+type: literaturenote
+tags: 
+summary: ""
+year: '2023'
+url: "https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce"
+authors: " Salzmann, Olly"
 ---
-
 
 > [!Cite] 
 > Salzmann, O. (2023, December 21). _PUE and how much energy ChatGPT consumes_. [https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce](https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce)

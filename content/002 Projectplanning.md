@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-09-11T11:56:49.275+02:00","cssclasses":""}
+{"publish":true,"title":"002 Projectplanning","created":"2025-08-26T10:37:01.252+02:00","modified":"2025-09-11T15:06:34.612+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |

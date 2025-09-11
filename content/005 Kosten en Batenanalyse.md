@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"005 Kosten- en batenanalyse","created":"2024-11-14T08:42:09.004+01:00","modified":"2025-09-11T10:43:31.773+02:00","cssclasses":""}
+publish: true
+title: 005 Kosten- en batenanalyse
+category: content
+order: 5
 ---
-
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |

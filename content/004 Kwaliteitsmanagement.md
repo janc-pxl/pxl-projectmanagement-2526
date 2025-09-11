@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"004 Kwaliteitsmanagement","created":"2024-09-19T16:51:18.735+02:00","modified":"2025-09-11T12:07:12.183+02:00","cssclasses":""}
+publish: true
+title: 004 Kwaliteitsmanagement
+category: content
+order: 4
 ---
-
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |

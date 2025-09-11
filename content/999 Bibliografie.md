@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"999 Bibliografie","created":"2024-05-14T18:55:44.828+02:00","modified":"2025-09-09T15:50:00.063+02:00","cssclasses":""}
+publish: true
+title: 999 Bibliografie
+category: content
+order: "999"
 ---
-
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |
@@ -14,6 +16,10 @@
 <div style="page-break-after: always;"></div>
 
 ## Wat is Projectmanagement
+- [[References/@ScopeCreep2024\|@ScopeCreep2024]]: _'Scope Creep: Wat is het en hoe krijg je het onder de knie? (Wiki)'_ -  **(2024)** https://tryve.eu/nl/wiki/scope-creep/<br/><br/>
+- [[References/@RACIMatrix2024\|@RACIMatrix2024]]: _'RACI Matrix: Wat is het en hoe krijg je het onder de knie? (Wiki)'_ -  **(2024)** https://tryve.eu/nl/wiki/raci-matrix/<br/><br/>
+- [[References/@jurcicWorkBreakdown2025\|@jurcicWorkBreakdown2025]]: _'Work Breakdown Structure in Project Management: Short Guide'_ -  ** Jurčić, Marin(2025)** https://productive.io/blog/work-breakdown-structure-in-project-management<br/><br/>
+- [[References/@pradeepProjectManagement2024\|@pradeepProjectManagement2024]]: _'The Project Management Diamond: A Comprehensive Guide to Balancing Scope, Time, Cost, and Quality'_ -  ** Pradeep, (2024)** https://www.jiitak.com/blog/project-management-diamond-guide<br/><br/>
 - [[References/@gomez_2021\|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>
 - [[References/@hiteshbhasin_2015\|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>
 - [[References/@sjoerdoldebijvank_2010\|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>
@@ -22,14 +28,19 @@
 - [[References/@vlaanderenintern_2014\|@vlaanderenintern_2014]]: _'Business Case'_ -  **vlaanderen intern(2014)** https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case<br/><br/>
 
 # Projectplanning
+- [[References/@geeksforgeeksDifferencePERT2025\|@geeksforgeeksDifferencePERT2025]]: _'Difference Between PERT and CPM'_ -  ** geeksforgeeks(2025)** https://www.geeksforgeeks.org/software-engineering/difference-between-pert-and-cpm/<br/><br/>
+- [[References/@gillinghamWhatMicrosoft2023\|@gillinghamWhatMicrosoft2023]]: _'What is Microsoft Project? A Comprehensive Overview'_ -  ** Gillingham, Jacob(2023)** https://www.invensislearning.com/blog/what-is-microsoft-project/<br/><br/>
 - [[References/@kypproject_2023\|@kypproject_2023]]: _'Hoe maak je een projectplanning? | KYP Project'_ -  **kypproject,(2023)** https://kypproject.com/nl/blog/hoe-maak-je-een-projectplanning/<br/><br/>
 - [[References/@schegget.hamelink_1993\|@schegget.hamelink_1993]]: _'Netwerkplanning volgens PERT'_ -  **Schegget, ter, P.J.; Hamelink, L.J.(1993)** https://research.tue.nl/files/4340148/501362.pdf<br/><br/>
 - [[References/@teamleader_2018\|@teamleader_2018]]: _'Hoe stel je een projectplan op? (gratis template) | Teamleader'_ -  **Teamleader,(2018)** https://www.teamleader.be/nl-be/blog/projectplan-template<br/><br/>
 
 # Kwaliteitsmanagement
 - [[References/@beljaars_2020\|@beljaars_2020]]: _'Wat is een affiniteitsdiagram?'_ -  ** Beljaars, Peter(2020)** https://www.agile4all.nl/wat-is-een-affiniteitsdiagram/<br/><br/>
+- [[References/@costaUnderstandingIshikawa2025\|@costaUnderstandingIshikawa2025]]: _'Understanding the Ishikawa Diagram | KAIZEN™ Article'_ -  ** Costa, Ines(2025)** https://kaizen.com/insights/ishikawa-diagram-root-cause-analysis/<br/><br/>
 - [[References/@hogeschoolpxl_2024\|@hogeschoolpxl_2024]]: _'Kwaliteitszorg'_ -  ** Hogeschool PXL, (2024)** https://www.pxl.be/Pub/Over-PXL/Kwaliteitszorg.html<br/><br/>
 - [[References/@leaninfo_2024\|@leaninfo_2024]]: _'Stroomdiagram - Een flowchart maakt uw proces inzichtelijk | LeanInfo.nl'_ -  ** Leaninfo(2024)** https://www.leaninfo.nl/stroomdiagram/<br/><br/>
+- [[References/@nguyenMasterPDCA2016\|@nguyenMasterPDCA2016]]: _'Master the PDCA Cycle for Effective Improvement - Click to Learn More!'_ -  ** Nguyen, Jasmine(2016)** https://www.heflo.com/blog/pdca-cycle<br/><br/>
+- [[References/@shindeWhatPoka2025\|@shindeWhatPoka2025]]: _'What is Poka Yoke? The Ultimate Guide to Manufacturing Mistake-Proofing • FlowFuse'_ -  ** Shinde, Sumit(2025)** https://flowfuse.com/blog/2025/09/poka-yoke-mistake-proofing/<br/><br/>
 - [[References/@stefanowicz_2024\|@stefanowicz_2024]]: _'15 Essential Help Desk Metrics & KPIs [+ Best Practices]'_ -  ** Stefanowicz, Beata(2024)** https://www.tidio.com/blog/helpdesk-metrics/<br/><br/>
 - [[References/@wikipedia_2023\|@wikipedia_2023]]: _'Ishikawa-diagram'_ -  ** Wikipedia(2023)** https://nl.wikipedia.org/w/index.php?title=Ishikawa-diagram&oldid=63986119<br/><br/>
 - [[References/@cspo_2021\|@cspo_2021]]: _'Quality vs. Grade for PMP'_ -  **CSPO, Erin Aldridge, PMP, PMI-ACP, &(2021)** https://projectmanagementacademy.net/resources/blog/quality-vs-grade-pmp-guide/<br/><br/>

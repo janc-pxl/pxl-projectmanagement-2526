@@ -1,7 +1,11 @@
 ---
-{"publish":true,"title":"What Are The Complete Scrum Artifacts? - Agile - ZenTao","created":"2024-05-13T11:02:42.015+02:00","modified":"2025-08-22T14:09:44.428+02:00","cssclasses":""}
+publish: true
+category: References
+title: What Are The Complete Scrum Artifacts? - Agile - ZenTao
+authors: ZenTao team,
+year: 2022 
+url: https://www.zentao.pm/blog/What-are-the-complete-Scrum-artifacts-1102.html
 ---
-
 
 # What Are The Complete Scrum Artifacts? - Agile - ZenTao
 
