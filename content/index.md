@@ -1,14 +1,14 @@
 ---
-{"publish":true,"title":"Inhoud","created":"2024-11-26T11:38:38.226+01:00","modified":"2025-08-25T08:18:04.101+02:00","cssclasses":""}
+{"publish":true,"title":"Inhoud","created":"2024-11-26T11:38:38.226+01:00","modified":"2025-09-11T09:10:39.600+02:00","cssclasses":""}
 ---
 
 
-> [!INFO] Projectmanagement © Hogeschool PXL
-> 
-> **OLOD:** 42TIN1250 Projectmanagement<br>
-> **Opleiding:** Professionele bachelor in de Toegepaste informatica<br>
-> **Departement:** [PXL-Digital](https://www.pxl.be/digital) <br>
-> **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)
+| Projectmanagement | © Hogeschool PXL                                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |
+| **Opleiding**     | Professionele bachelor in de Toegepaste informatica                                                                      |
+| **Departement**   | [PXL-Digital](https://www.pxl.be/digital)                                                                                |
+| **Lectoren**      | [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/) |
 
 ![](https://i.imgur.com/wG1hpON.png)
 
