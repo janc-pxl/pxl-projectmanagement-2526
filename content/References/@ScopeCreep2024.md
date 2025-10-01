@@ -1,15 +1,7 @@
 ---
-publish: true
-category: References
-title: "Scope Creep: Wat is het en hoe krijg je het onder de knie? (Wiki)"
-citekey: "ScopeCreep2024"
-type: literaturenote
-tags: 
-summary: ""
-year: '2024'
-url: "https://tryve.eu/nl/wiki/scope-creep/"
-authors: ""
+{"publish":true,"title":"Scope Creep: Wat is het en hoe krijg je het onder de knie? (Wiki)","created":"2025-09-11T11:34:19.578+02:00","modified":"2025-09-11T11:34:19.578+02:00","cssclasses":""}
 ---
+
 
 > [!Cite] 
 > _Scope Creep: Wat is het en hoe krijg je het onder de knie? (Wiki)_. 18 november 2024. [https://tryve.eu/nl/wiki/scope-creep/](https://tryve.eu/nl/wiki/scope-creep/).

@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: Netwerkplanning volgens PERT
-authors: Schegget, ter, P.J.; Hamelink, L.J.
-year: 1993 
-url: https://research.tue.nl/files/4340148/501362.pdf
+{"publish":true,"title":"Netwerkplanning volgens PERT","created":"2024-05-13T11:02:42.012+02:00","modified":"2025-08-22T14:08:35.763+02:00","cssclasses":""}
 ---
+
 
 # Netwerkplanning volgens PERT
 

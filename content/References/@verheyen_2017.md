@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "De kernwaarden van Scrum"
-authors: Verheyen, Gunther
-year: 2017 
-url: https://guntherverheyen.com/2017/02/15/de-kernwaarden-van-scrum/
+{"publish":true,"title":"De kernwaarden van Scrum","created":"2024-05-13T11:02:42.014+02:00","modified":"2025-08-22T14:09:15.502+02:00","cssclasses":""}
 ---
+
 
 # De kernwaarden van Scrum
 

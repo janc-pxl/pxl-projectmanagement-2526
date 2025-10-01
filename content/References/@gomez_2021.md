@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: The Difference Between Product and Project Management
-authors: Gomez, Jose
-year: 2021 
-url: https://www.koombea.com/blog/the-difference-between-product-and-project-management/
+{"publish":true,"title":"The Difference Between Product and Project Management","created":"2024-05-13T11:02:42.010+02:00","modified":"2025-08-22T14:07:54.297+02:00","cssclasses":""}
 ---
+
 
 # The Difference Between Product and Project Management
 

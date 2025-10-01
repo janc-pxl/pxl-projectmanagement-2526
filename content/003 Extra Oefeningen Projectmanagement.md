@@ -1,9 +1,7 @@
 ---
-title: 003 Extra oefeningen Projectmanagement
-category: content
-order: 3
-publish: true
+{"publish":true,"title":"003 Extra oefeningen Projectmanagement","created":"2024-10-11T09:44:27.423+02:00","modified":"2025-09-09T15:49:23.346+02:00","cssclasses":""}
 ---
+
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |

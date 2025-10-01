@@ -1,15 +1,7 @@
 ---
-publish: true
-category: References
-title: "Wat is een affiniteitsdiagram?"
-citekey: "beljaars_2020"
-type: literaturenote
-tags: 
-summary: ""
-year: '2020'
-url: "https://www.agile4all.nl/wat-is-een-affiniteitsdiagram/"
-authors: " Beljaars, Peter"
+{"publish":true,"title":"Wat is een affiniteitsdiagram?","created":"2024-09-06T18:35:09.721+02:00","modified":"2025-08-22T14:07:29.128+02:00","cssclasses":""}
 ---
+
 
 > [!Cite] 
 > Beljaars, P. (2020, November 9). _Wat is een affiniteitsdiagram?_ agile4all. [https://www.agile4all.nl/wat-is-een-affiniteitsdiagram/](https://www.agile4all.nl/wat-is-een-affiniteitsdiagram/)

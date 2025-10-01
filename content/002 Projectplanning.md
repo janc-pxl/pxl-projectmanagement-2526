@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"002 Projectplanning","created":"2025-08-26T10:37:01.252+02:00","modified":"2025-09-11T15:06:34.612+02:00","cssclasses":""}
+{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-10-01T11:48:34.709+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -322,7 +322,7 @@ In het geval dat de werken vooruit lopen (de droom van iedere projectleider), ka
 
 ##### Taken en taakniveaus
 
-We willen een blokhut plaatsen in de tuin. De blokhut hebben we gekocht als een bouwpakket. De bouwelementen zullen voorhanden zijn vanaf de leveringsdatum: dinsdag 8 oktober 2024.
+We willen een blokhut plaatsen in de tuin. De blokhut hebben we gekocht als een bouwpakket. De bouwelementen zullen voorhanden zijn vanaf de leveringsdatum: maandag 13 oktober 2025.
 
 Materialen die eveneens aangekocht werden zijn zand, kiezelstenen en cement. De blokhut zal gebouwd worden met drie personen, ze zullen beginnen te bouwen op de dag van de levering.
 
@@ -363,7 +363,7 @@ De volgende taken zullen uitgevoerd moeten worden
 
 - Creëer een nieuw projectplan.
 - Geef de projectgegevens in.
-- De vaste startdatum is voorzien op `dinsdag 8 oktober 2024`.
+- De vaste startdatum is voorzien op `maandag 13 oktober 2025`.
 - De titel van het project, extra informatie, de naam van de auteur en de manager mag je zelf bepalen.
 - Nu moeten de taken voorzien worden van hun geschatte tijdsduur (t$_e$) en ook de taakafhankelijkheden moeten aangebracht worden:
 	- Zorg eerst voor een goede uitlijning van de taakniveaus (hoofd- en subtaken).
@@ -409,7 +409,7 @@ Tot nu toe hebben we verondersteld te werken met de basiskalender, zoals die sta
 
 Voor onze werklieden dient deze basiskalender aangepast te worden. We beginnen ’s morgens te werken om 8:30 uur en we werken tot 17:00 met een half uur middagpauze.
 
-Donderdag 10 oktober is een collectieve sluitingsdag en daardoor wordt er dan niet gewerkt. Peter neemt, bijkomend, verlof op vrijdag 11 oktober.
+Donderdag 16 oktober is een collectieve sluitingsdag en daardoor wordt er dan niet gewerkt. Peter neemt, bijkomend, verlof op vrijdag 17 oktober.
 
 Hieronder vind je opnieuw de taken, maar nu met de toewijzingen van resources.
 
@@ -497,7 +497,7 @@ De werkelijke voortgang kan op meerdere manieren aangegeven worden
 
 - Automatisch
 
-    - Zet de statusdatum op 10 oktober 2024 en kies voor automatisch bijwerken. Alle taken worden dan verondersteld om uitgevoerd te zijn binnen de geschatte planning. Deze methode kan natuurlijk alleen gebruikt worden indien de uitvoering vrijwel gelijk loopt met de planning. Indien dit niet zo is, vullen we de gepresteerde werktijden beter zelf aan. Dit laatste zullen we doen voor de rest van de uitvoering.
+    - Zet de statusdatum op 16 oktober 2025 en kies voor automatisch bijwerken. Alle taken worden dan verondersteld om uitgevoerd te zijn binnen de geschatte planning. Deze methode kan natuurlijk alleen gebruikt worden indien de uitvoering vrijwel gelijk loopt met de planning. Indien dit niet zo is, vullen we de gepresteerde werktijden beter zelf aan. Dit laatste zullen we doen voor de rest van de uitvoering.
         - Voeg een voortgangslijn in.
         - Zoek in de projectstatistieken op voor hoeveel procent ons project al voltooid is. Kijk eveneens eens naar de kosten die al gemaakt zijn en de kosten die nog zullen ontstaan.
 

@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "Scrum takenbord | Scrumguide.nl"
-authors: Scrumguide,
-year: 2022 
-url: https://scrumguide.nl/scrumbord/
+{"publish":true,"title":"Scrum takenbord | Scrumguide.nl","created":"2024-05-13T11:02:42.012+02:00","modified":"2025-08-22T14:08:41.542+02:00","cssclasses":""}
 ---
+
 
 # Scrum takenbord | Scrumguide.nl
 

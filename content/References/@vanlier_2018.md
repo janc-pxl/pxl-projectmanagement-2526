@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "Stakeholdermanagement in projecten met Scrum"
-authors: van Lier, Willemijn
-year: 2018 
-url: https://agilescrumgroup.nl/stakeholder-management-matrix-model/
+{"publish":true,"title":"Stakeholdermanagement in projecten met Scrum","created":"2024-05-13T11:02:42.013+02:00","modified":"2025-08-22T14:09:08.037+02:00","cssclasses":""}
 ---
+
 
 # Stakeholdermanagement in projecten met Scrum
 
