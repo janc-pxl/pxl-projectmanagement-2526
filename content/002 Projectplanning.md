@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-10-01T11:48:34.709+02:00","cssclasses":""}
+{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-10-02T19:51:19.354+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -503,7 +503,7 @@ De werkelijke voortgang kan op meerdere manieren aangegeven worden
 
 -  Manueel
 
-    -  Voor de taken die nog uitgevoerd moeten worden op vrijdag 11 oktober, zullen we de voortgang zelf invullen. We veronderstellen dat de tijdsduur van alle taken, behalve voor het plaatsen van de ramen en deuren, correct geschat is. Voor het plaatsen van de ramen en deuren heeft Jan een half uur meer nodig dan voorzien. Het manueel invoeren van gewerkte tijden kan je best doen via de weergave “Taakbeheer”
+    -  Voor de taken die nog uitgevoerd moeten worden op vrijdag 17 oktober, zullen we de voortgang zelf invullen. We veronderstellen dat de tijdsduur van alle taken, behalve voor het plaatsen van de ramen en deuren, correct geschat is. Voor het plaatsen van de ramen en deuren heeft Jan een half uur meer nodig dan voorzien. Het manueel invoeren van gewerkte tijden kan je best doen via de weergave “Taakbeheer”
         - Zoek in de projectstatistieken op of er extra kosten gemaakt werden door het extra half uur aan werk.
 
 ##### Beheer van kosten
