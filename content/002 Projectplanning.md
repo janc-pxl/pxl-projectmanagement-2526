@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-10-02T19:51:19.354+02:00","cssclasses":""}
+{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-10-05T15:11:15.598+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -322,7 +322,7 @@ In het geval dat de werken vooruit lopen (de droom van iedere projectleider), ka
 
 ##### Taken en taakniveaus
 
-We willen een blokhut plaatsen in de tuin. De blokhut hebben we gekocht als een bouwpakket. De bouwelementen zullen voorhanden zijn vanaf de leveringsdatum: maandag 13 oktober 2025.
+We willen een blokhut plaatsen in de tuin. De blokhut hebben we gekocht als een bouwpakket. De bouwelementen zullen voorhanden zijn vanaf de leveringsdatum: dinsdag 14 oktober 2025.
 
 Materialen die eveneens aangekocht werden zijn zand, kiezelstenen en cement. De blokhut zal gebouwd worden met drie personen, ze zullen beginnen te bouwen op de dag van de levering.
 
@@ -363,7 +363,7 @@ De volgende taken zullen uitgevoerd moeten worden
 
 - Creëer een nieuw projectplan.
 - Geef de projectgegevens in.
-- De vaste startdatum is voorzien op `maandag 13 oktober 2025`.
+- De vaste startdatum is voorzien op `dinsdag 14 oktober 2025`.
 - De titel van het project, extra informatie, de naam van de auteur en de manager mag je zelf bepalen.
 - Nu moeten de taken voorzien worden van hun geschatte tijdsduur (t$_e$) en ook de taakafhankelijkheden moeten aangebracht worden:
 	- Zorg eerst voor een goede uitlijning van de taakniveaus (hoofd- en subtaken).
