@@ -1,7 +1,11 @@
 ---
-{"publish":true,"title":"Incremental Model in SDLC: Use, Advantage & Disadvantage","created":"2024-05-13T11:02:42.011+02:00","modified":"2025-08-22T14:08:17.087+02:00","cssclasses":""}
+publish: true
+category: References
+title: "Incremental Model in SDLC: Use, Advantage & Disadvantage"
+authors: Martin, Matthew
+year: 2020 
+url: https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html
 ---
-
 
 # Incremental Model in SDLC: Use, Advantage & Disadvantage
 

@@ -1,7 +1,11 @@
 ---
-{"publish":true,"title":"How to Be An Effective Product Owner","created":"2024-05-13T11:02:42.013+02:00","modified":"2025-08-22T14:09:00.706+02:00","cssclasses":""}
+publish: true
+category: References
+title: How to Be An Effective Product Owner
+authors: userstorymap,
+year: 2022 
+url: https://www.userstorymap.io/being-an-effective-product-owner/
 ---
-
 
 # How to Be An Effective Product Owner
 

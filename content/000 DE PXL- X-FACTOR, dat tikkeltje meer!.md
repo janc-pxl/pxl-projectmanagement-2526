@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"000 DE PXL- X-FACTOR, dat tikkeltje meer!","created":"2024-07-04T13:54:06.301+02:00","modified":"2025-09-09T15:49:10.890+02:00","cssclasses":""}
+{"publish":true,"title":"000 DE PXL- X-FACTOR, dat tikkeltje meer!","created":"2025-08-26T10:37:01.244+02:00","modified":"2025-09-11T14:59:26.552+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |

@@ -1,7 +1,15 @@
 ---
-{"publish":true,"title":"Ishikawa-diagram","created":"2024-09-06T18:35:09.721+02:00","modified":"2025-08-22T14:09:38.109+02:00","cssclasses":""}
+publish: true
+category: References
+title: "Ishikawa-diagram"
+citekey: "wikipedia_2023"
+type: literaturenote
+tags: 
+summary: ""
+year: '2023'
+url: "https://nl.wikipedia.org/w/index.php?title=Ishikawa-diagram&oldid=63986119"
+authors: " Wikipedia"
 ---
-
 
 > [!Cite] 
 > Wikipedia. (2023). Ishikawa-diagram. In _Wikipedia_. [https://nl.wikipedia.org/w/index.php?title=Ishikawa-diagram&oldid=63986119](https://nl.wikipedia.org/w/index.php?title=Ishikawa-diagram&oldid=63986119)

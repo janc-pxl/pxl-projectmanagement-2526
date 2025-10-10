@@ -1,7 +1,11 @@
 ---
-{"publish":true,"title":"Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl","created":"2024-05-13T11:02:42.012+02:00","modified":"2025-08-22T14:08:38.738+02:00","cssclasses":""}
+publish: true
+category: References
+title: "Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl"
+authors: scrumguide,
+year: 2022 
+url: https://scrumguide.nl/scrumteam/
 ---
-
 
 # Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl
 

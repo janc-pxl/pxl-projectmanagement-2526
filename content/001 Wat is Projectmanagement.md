@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2024-09-19T17:05:27.991+02:00","modified":"2025-09-11T11:45:30.763+02:00","cssclasses":""}
+{"publish":true,"title":"001 Wat is ProjectManagement?","created":"2025-08-26T10:37:01.247+02:00","modified":"2025-09-11T15:10:32.157+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |

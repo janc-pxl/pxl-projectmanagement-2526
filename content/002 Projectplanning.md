@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"002 Projectplanning","created":"2024-10-11T11:46:22.532+02:00","modified":"2025-10-05T15:11:15.598+02:00","cssclasses":""}
+{"publish":true,"title":"002 Projectplanning","created":"2025-08-26T10:37:01.252+02:00","modified":"2025-10-10T14:36:38.334+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -474,11 +474,9 @@ Let, bij het toewijzen van resources, op de bijkomende elementen:
 - Zoek in de projectstatistieken op over hoeveel dagen het project zal uitgestrekt worden.
 - In de projectstatistieken vind je eveneens het aantal uren dat gepresteerd dienen te worden tijdens die periode?
 - Lees in de statistieken af hoeveel de totaal geschatte kost bedraagt van dit bouwproject?
-- Kunnen de resources niet efficiënter toegewezen worden? Omwille van het verlof van Peter worden de taken waaraan Peter toegewezen is lang opgeschort en daardoor is de doorlooptijd van het project groter dan nodig. Verwijder Peter uit de lijst van resources voor deze taken en wijs, eventueel, Koen aan deze taken toe.
-- Als je de `Resource Graph` (nl: `Resourcegrafiek`) bekijkt, zie je dat Koen en Jan dagen hebben met een overbezetting. Maak gebruik van `Resource Leveling` (nl: `Resource herverdeling`) om de overuren weg te werken.
+- Kunnen de resources niet efficiënter toegewezen worden? Omwille van het verlof van Peter worden de taken waaraan Peter toegewezen is lang opgeschort en daardoor is de doorlooptijd van het project groter dan nodig. Verwijder Peter uit de lijst van resources voor deze taken en pas de duur van de taak aan in functie van de wijziging.
 - Hoeveel bedraagt de doorlooptijd van het totale project, na deze wijzigingen? De totaal gepresteerde uren van Koen, Jan en Peter vind je terug via de weergave `Resource Usage` (nl: `Resourcegebruik`). De kosten van het gebruik van de beschikbare resources vind je in de `Resource Sheet` (nl: `Resourceformulier`) -> Rechtermuis `Costs` (nl: `Kosten`).
 - In grote organisaties wordt aan meerdere projecten tegelijkertijd gewerkt. De resources mogen dan niet toegekend worden aan één project, maar moeten gedeeld worden door alle uitvoerbare projecten. Deze resources worden dan ook niet opgenomen in het project zelf, maar worden ter beschikking gesteld in een resourcepool. Bij het toewijzen van resources aan taken in een project gebruiken de uitvoerbare projecten de resources uit de pool.  
-	- Los bovenstaande oefening opnieuw op, maar maak nu gebruik van een “Resourcepool”.
 
 ##### Voortgangscontrole en beheer van kosten
 

@@ -1,7 +1,11 @@
 ---
-{"publish":true,"title":"What are Time-boxed Events in Scrum?","created":"2024-05-13T11:02:42.014+02:00","modified":"2025-08-22T14:09:25.425+02:00","cssclasses":""}
+publish: true
+category: References
+title: "What are Time-boxed Events in Scrum?"
+authors: Visual Paradigm,
+year: 2022 
+url: https://www.visual-paradigm.com/scrum/what-are-scrum-time-boxed-events/
 ---
-
 
 # What are Time-boxed Events in Scrum?
 
