@@ -1,9 +1,7 @@
 ---
-publish: true
-title: 007 Agile Projectmanagement
-category: content
-order: 7
+{"publish":true,"title":"007 Agile Projectmanagement","created":"2024-11-26T11:38:38.225+01:00","modified":"2025-09-09T15:49:45.873+02:00","cssclasses":""}
 ---
+
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |

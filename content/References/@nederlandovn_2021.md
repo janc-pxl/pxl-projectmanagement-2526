@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: Kwaliteitskringen | Optometristen Vereniging Nederland (OVN)
-authors: Nederland (OVN), Optometristen Vereniging
-year: 2021 
-url: https://www.optometrie.nl/optometrist/organisatie-beleid/ovn-organisatie/kwaliteitskringen
+{"publish":true,"title":"Kwaliteitskringen | Optometristen Vereniging Nederland (OVN)","created":"2024-05-13T11:02:42.011+02:00","modified":"2025-08-22T14:08:21.145+02:00","cssclasses":""}
 ---
+
 
 # Kwaliteitskringen | Optometristen Vereniging Nederland (OVN)
 

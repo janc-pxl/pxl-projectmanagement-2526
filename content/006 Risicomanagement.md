@@ -1,9 +1,7 @@
 ---
-publish: true
-title: 006 Risicomanagement
-category: content
-order: 6
+{"publish":true,"title":"006 Risicomanagement","created":"2024-11-14T08:42:09.007+01:00","modified":"2025-09-09T15:49:40.939+02:00","cssclasses":""}
 ---
+
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |

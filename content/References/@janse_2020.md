@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "LEAN management"
-authors: Janse, B.
-year: 2020 
-url: https://www.toolshero.nl/kwaliteitsmanagement/lean-management/
+{"publish":true,"title":"LEAN management","created":"2024-05-13T11:02:42.011+02:00","modified":"2025-09-09T15:33:56.988+02:00","cssclasses":""}
 ---
+
 
 # LEAN management
 

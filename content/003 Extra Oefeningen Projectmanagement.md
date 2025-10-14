@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"003 Extra oefeningen Projectmanagement","created":"2025-08-26T10:37:01.257+02:00","modified":"2025-10-13T10:50:41.882+02:00","cssclasses":""}
+{"publish":true,"title":"003 Extra oefeningen Projectmanagement","created":"2025-10-14T15:23:27.761+02:00","modified":"2025-10-14T15:24:51.728+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -79,8 +79,8 @@ Aan elk van deze resources koppelt hij een nieuwe basis/base kalender= “**Dino
 De werkdagen starten om **08:00** en eindigen om **17:30**, met dagelijks 90 minuten pauze tussen **12:00** en **13:30**.
 
 De maand **juli** is vakantie voor iedereen. Deze vakantie plan je in onder de kalender ‘Dinosaur power’.  
-- Dennis neemt bijkomend verlof op **3 augustus 2025**.  
-- Ray neemt bijkomend verlof op **7 augustus 2025**.  
+- Dennis neemt bijkomend verlof op **3 augustus 2026**.  
+- Ray neemt bijkomend verlof op **7 augustus 2026**.  
 
 Als overzichtstaak start hij met de concrete uitwerking van de <u>Analysefase</u>:
 

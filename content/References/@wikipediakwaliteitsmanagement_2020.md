@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "Kwaliteitsmanagement"
-authors: Wikipedia kwaliteitsmanagement,
-year: 2020 
-url: https://nl.wikipedia.org/w/index.php?title=Kwaliteitsmanagement&oldid=55870333
+{"publish":true,"title":"Kwaliteitsmanagement","created":"2024-05-13T11:02:42.014+02:00","modified":"2025-09-09T15:33:17.330+02:00","cssclasses":""}
 ---
+
 
 # Kwaliteitsmanagement
 

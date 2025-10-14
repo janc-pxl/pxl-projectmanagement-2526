@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: The 3 Scrum Roles and Responsibilities, Explained
-authors: Coursera,
-year: 2022 
-url: https://www.coursera.org/articles/scrum-roles-and-responsibilities
+{"publish":true,"title":"The 3 Scrum Roles and Responsibilities, Explained","created":"2024-05-13T11:02:42.009+02:00","modified":"2025-08-22T14:07:36.542+02:00","cssclasses":""}
 ---
+
 
 # The 3 Scrum Roles and Responsibilities, Explained
 

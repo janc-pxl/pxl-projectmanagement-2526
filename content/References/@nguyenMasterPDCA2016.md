@@ -1,15 +1,7 @@
 ---
-publish: true
-category: References
-title: "Master the PDCA Cycle for Effective Improvement - Click to Learn More!"
-citekey: "nguyenMasterPDCA2016"
-type: literaturenote
-tags: 
-summary: ""
-year: '2016'
-url: "https://www.heflo.com/blog/pdca-cycle"
-authors: " Nguyen, Jasmine"
+{"publish":true,"title":"Master the PDCA Cycle for Effective Improvement - Click to Learn More!","created":"2025-09-11T12:01:52.253+02:00","modified":"2025-09-11T12:01:52.254+02:00","cssclasses":""}
 ---
+
 
 > [!Cite] 
 > Nguyen, Jasmine. ‘Master the PDCA Cycle for Effective Improvement - Click to Learn More!’ 29 januari 2016. [https://www.heflo.com/blog/pdca-cycle](https://www.heflo.com/blog/pdca-cycle).

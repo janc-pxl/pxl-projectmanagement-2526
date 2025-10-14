@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "House of Control"
-authors: Sjoerd Olde Bijvank
-year: 2010 
-url: https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html
+{"publish":true,"title":"House of Control","created":"2024-05-13T11:02:42.012+02:00","modified":"2025-08-22T15:31:31.530+02:00","cssclasses":""}
 ---
+
 
 # House of Control
 

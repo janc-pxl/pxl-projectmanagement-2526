@@ -1,9 +1,7 @@
 ---
-publish: true
-title: 009 Informatiemanagement
-category: content
-order: 9
+{"publish":true,"title":"009 Informatiemanagement","created":"2024-05-14T18:55:44.827+02:00","modified":"2025-09-09T15:49:55.381+02:00","cssclasses":""}
 ---
+
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |

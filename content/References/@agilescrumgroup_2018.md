@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "De Sprint Review uitgelegd. Waarom deze meeting? (+ Checklist & Valkuilen)"
-authors: Agile Scrum Group,
-year: 2018 
-url: https://agilescrumgroup.nl/sprint-review/
+{"publish":true,"title":"De Sprint Review uitgelegd. Waarom deze meeting? (+ Checklist & Valkuilen)","created":"2024-05-13T11:02:42.009+02:00","modified":"2025-08-22T14:07:24.979+02:00","cssclasses":""}
 ---
+
 
 # De Sprint Review uitgelegd. Waarom deze meeting? (+ Checklist & Valkuilen)
 

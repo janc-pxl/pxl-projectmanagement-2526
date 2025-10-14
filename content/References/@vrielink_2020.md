@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "Hoe werken story points?"
-authors: Vrielink, Martijn
-year: 2020 
-url: https://www.incentro.com/nl-NL/blog/story-points-hoe-werken-ze-eigenlijk
+{"publish":true,"title":"Hoe werken story points?","created":"2024-05-13T11:02:42.014+02:00","modified":"2025-08-22T14:09:35.324+02:00","cssclasses":""}
 ---
+
 
 # Hoe werken story points?
 

@@ -1,10 +1,7 @@
 ---
-publish: true
-category: References
-title: "Project management handbook: simplified Agile, Scrum, and DevOps for beginners"
-authors: Stanley, Jack C; Gross, Erik D; Tech Academy
-year: 2020 
+{"publish":true,"title":"Project management handbook: simplified Agile, Scrum, and DevOps for beginners","created":"2024-05-13T11:02:42.012+02:00","modified":"2025-08-22T14:08:46.567+02:00","cssclasses":""}
 ---
+
 
 # Project management handbook: simplified Agile, Scrum, and DevOps for beginners
 
