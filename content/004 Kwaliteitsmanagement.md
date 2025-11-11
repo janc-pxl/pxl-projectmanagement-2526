@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"004 Kwaliteitsmanagement","created":"2024-09-19T16:51:18.735+02:00","modified":"2025-09-11T12:07:12.183+02:00","cssclasses":""}
+{"publish":true,"title":"004 Kwaliteitsmanagement","created":"2024-09-19T16:51:18.735+02:00","modified":"2025-11-11T16:07:38.209+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -141,13 +141,17 @@ Het is belangrijk de verschillen tussen aan de ene kant de **kwaliteit** en aan 
 > - **Hoge uitwerking**: veel waardevolle of gewenste kenmerken
 > - **Lage uitwerking**: beperkte of ongewenste kenmerken
 
-Vanuit het oogpunt van kwaliteit en uitwerking zijn er vier mogelijke combinaties wanneer je kijkt naar een product of oplevering. Kijken we bijvoorbeeld naar het opleveren van een simpele hamburger.
+##### Kwaliteit en uitwerking: vier mogelijke combinaties
 
-- **Hoge kwaliteit, hoge uitwerking**: dit is het soort hamburger dat je kan vinden in een sterrenrestaurant. Die is correct gebakken en veilig om te eten (hoge kwaliteit), bevat kwaliteitsvlees en andere hoog gewaardeerde ingrediënten. Bovendien is het een kostelijke hamburger (hoge uitwerking)
-- **Hoge kwaliteit, lage uitwerking**: dit soort hamburger eet je in een fast-food restaurant. Het is nog altijd correct gebakken en veilig om te eten (hoge kwaliteit), maar het bevat mogelijk lagere kwaliteit vlees of andere ongezonde bestanddelen die het minder gewaardeerd maken.(lage uitwerking)
-- **Lage kwaliteit, hoge uitwerking**: stel je voor dat je een burger besteld bij een goed restaurant, waarvan je weet dat de bestanddelen kwaliteitsvol zijn (hoge uitwerking) Ondanks dat alles ontvang je een aangebakken, oneetbare hamburger. Dan is de uitwerking hoog, maar hoe dan ook de kwaliteit laag.
-- **Lage kwaliteit, lage uitwerking**: heb je al ooit een fast-food burger besteld en je verslikt in rauw gehakt, of in een verbrande rots? Dat is een lage kwaliteit EN lage uitwerkingshamburger.
+Wanneer we een product of oplevering beoordelen op kwaliteit en uitwerking, ontstaan er vier mogelijke combinaties. Neem als voorbeeld een simpele hamburger.
 
+- **Hoge kwaliteit, hoge uitwerking:** Dit is de hamburger uit een sterrenrestaurant. Hij is perfect gebakken en veilig om te eten (kwaliteit), gemaakt met premium ingrediënten en tot in detail uitgewerkt met bijpassende garnituren en presentatie (uitwerking).
+	
+- **Hoge kwaliteit, lage uitwerking:** De typische fastfoodhamburger. Correct gebakken en veilig om te eten (kwaliteit), maar alleen de basisingrediënten zonder extra's of verfijning (beperkte uitwerking).
+	
+- **Lage kwaliteit, hoge uitwerking:** Bijvoorbeeld: een luxe burger met alle toppings uit een goed restaurant - truffelmayonaise, briochebroodje, diverse groenten (uitgebreide uitwerking). Helaas is het vlees aangebrand en oneetbaar (lage kwaliteit).
+	
+- **Lage kwaliteit, lage uitwerking:** De nachtmerrie van elke fastfoodklant - een burger die zowel rauw van binnen als verbrand van buiten is (lage kwaliteit), met alleen een droog broodje en plakje vlees zonder verdere toevoegingen (lage uitwerking).
 [[References/@cspo_2021]]
 
 #### Nauwkeurigheid versus precisie (reproduceerbaarheid)

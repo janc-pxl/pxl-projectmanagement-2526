@@ -1,6 +1,7 @@
 ---
-{"publish":true,"title":"003 Extra oefeningen Projectmanagement","created":"2025-10-14T15:23:27.761+02:00","modified":"2025-10-14T15:24:51.728+02:00","cssclasses":""}
+{"publish":true,"title":"003 Extra oefeningen Projectmanagement","created":"2025-11-02T20:44:27.937+01:00","modified":"2025-11-02T20:44:27.937+01:00","cssclasses":""}
 ---
+
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
