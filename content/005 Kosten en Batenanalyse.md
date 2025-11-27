@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"005 Kosten- en batenanalyse","created":"2024-11-14T08:42:09.004+01:00","modified":"2025-11-01T10:00:15.644+01:00","cssclasses":""}
+{"publish":true,"title":"005 Kosten- en batenanalyse","created":"2025-08-26T10:37:01.266+02:00","modified":"2025-11-02T18:12:26.016+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |

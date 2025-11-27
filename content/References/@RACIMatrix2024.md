@@ -1,7 +1,15 @@
 ---
-{"publish":true,"title":"RACI Matrix: Wat is het en hoe krijg je het onder de knie? (Wiki)","created":"2025-09-11T11:32:07.287+02:00","modified":"2025-09-11T11:32:07.287+02:00","cssclasses":""}
+publish: true
+category: References
+title: "RACI Matrix: Wat is het en hoe krijg je het onder de knie? (Wiki)"
+citekey: "RACIMatrix2024"
+type: literaturenote
+tags: 
+summary: ""
+year: '2024'
+url: "https://tryve.eu/nl/wiki/raci-matrix/"
+authors: ""
 ---
-
 
 > [!Cite] 
 > _RACI Matrix: Wat is het en hoe krijg je het onder de knie? (Wiki)_. 27 december 2024. [https://tryve.eu/nl/wiki/raci-matrix/](https://tryve.eu/nl/wiki/raci-matrix/).

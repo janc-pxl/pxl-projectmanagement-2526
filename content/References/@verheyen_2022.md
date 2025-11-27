@@ -1,7 +1,11 @@
 ---
-{"publish":true,"title":"Scrum Glossary","created":"2024-05-13T11:02:42.014+02:00","modified":"2025-09-09T15:34:50.715+02:00","cssclasses":""}
+publish: true
+category: References
+title: "Scrum Glossary"
+authors: Verheyen, Gunther
+year: 2022 
+url: https://scrumglossary.org/
 ---
-
 
 # Scrum Glossary
 

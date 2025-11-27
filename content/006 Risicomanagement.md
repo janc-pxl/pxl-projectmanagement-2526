@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"006 Risicomanagement","created":"2024-11-14T08:42:09.007+01:00","modified":"2025-09-09T15:49:40.939+02:00","cssclasses":""}
+{"publish":true,"title":"006 Risicomanagement","created":"2025-08-26T10:37:01.271+02:00","modified":"2025-11-27T09:06:57.789+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -192,9 +192,9 @@ De foutenboom brengt visueel in kaart wat fout kan gaan met het product, en dit 
 Een opgestelde functiestructuur is handig als basis voor de foutenboomanalyse: bij elk onderdeel of elke functie kan de vraag gesteld worden: “Wat kan hiermee fout gaan?”.
 
 #### Hoe een foutenboom opstellen?
-•	Plaats bovenaan de boom een mogelijk defect.
-•	Geef alle mogelijke oorzaken van het defect aan de hand van logische structuren (EN, OF,…) aan.
-•	Diep dit uit tot op een niveau dat het probleem duidelijk zichtbaar is. In de volgende stappen wordt bekeken wat het gevolg en de ernst van het probleem is, en worden naar oplossingen gezocht.
+-	Plaats bovenaan de boom een mogelijk defect.
+-	Geef alle mogelijke oorzaken van het defect aan de hand van logische structuren (EN, OF,…) aan.
+-	Diep dit uit tot op een niveau dat het probleem duidelijk zichtbaar is. In de volgende stappen wordt bekeken wat het gevolg en de ernst van het probleem is, en worden naar oplossingen gezocht.
 
 > [!caption]
 > ![](https://i.imgur.com/8Oh1Eb2.png)

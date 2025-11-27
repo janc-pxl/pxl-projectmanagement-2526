@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)","created":"2024-05-13T11:02:42.009+02:00","modified":"2025-08-22T14:07:21.694+02:00","cssclasses":""}
+{"publish":true,"title":"Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)","created":"2024-09-10T15:14:38.594+02:00","modified":"2025-11-13T14:10:59.386+01:00","cssclasses":""}
 ---
 
 

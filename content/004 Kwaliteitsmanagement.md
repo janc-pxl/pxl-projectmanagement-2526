@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"004 Kwaliteitsmanagement","created":"2024-09-19T16:51:18.735+02:00","modified":"2025-11-11T16:07:38.209+01:00","cssclasses":""}
+{"publish":true,"title":"004 Kwaliteitsmanagement","created":"2025-08-26T10:37:01.262+02:00","modified":"2025-11-13T14:07:46.339+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |

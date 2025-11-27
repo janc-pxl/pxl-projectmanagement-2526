@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2024-09-12T08:23:38.836+02:00","modified":"2025-09-09T15:49:50.612+02:00","cssclasses":""}
+{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2025-08-26T10:37:01.281+02:00","modified":"2025-11-27T09:07:27.359+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |

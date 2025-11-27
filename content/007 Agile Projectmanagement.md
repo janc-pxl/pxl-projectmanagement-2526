@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"007 Agile Projectmanagement","created":"2024-11-26T11:38:38.225+01:00","modified":"2025-09-09T15:49:45.873+02:00","cssclasses":""}
+{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-27T09:14:24.839+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -881,13 +881,13 @@ De Definition of Done wordt tijdens de start van iedere [[007 Agile Projectmana
 
 > [!example] Voorbeeld van een DoD voor een niet-IT-project
 > 
-> • Alle to-do’s voor de story zijn afgerond.
-> • Een ander teamlid heeft feedback gegeven op het werk.
-> • Er is een spellingscheck gedaan.
-> • Het werk is gecontroleerd op huisstijl.
-> • Het werk is gecontroleerd op _design_ en _brand values_.
-> • Het werk is gecontroleerd in het kader van compliance.
-> • Er is feedback van eindgebruikers gevraagd op het opgeleverde product.
+> - Alle to-do’s voor de story zijn afgerond.
+> - Een ander teamlid heeft feedback gegeven op het werk.
+> - Er is een spellingscheck gedaan.
+> - Het werk is gecontroleerd op huisstijl.
+> - Het werk is gecontroleerd op _design_ en _brand values_.
+> - Het werk is gecontroleerd in het kader van compliance.
+> - Er is feedback van eindgebruikers gevraagd op het opgeleverde product.
 
 Wat de inhoud van _Definition of Done_ is, bepaalt het team dus helemaal zelf.
 

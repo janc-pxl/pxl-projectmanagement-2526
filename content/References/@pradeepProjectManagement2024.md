@@ -1,7 +1,15 @@
 ---
-{"publish":true,"title":"The Project Management Diamond: A Comprehensive Guide to Balancing Scope, Time, Cost, and Quality","created":"2025-09-11T11:45:04.475+02:00","modified":"2025-09-11T11:45:04.475+02:00","cssclasses":""}
+publish: true
+category: References
+title: "The Project Management Diamond: A Comprehensive Guide to Balancing Scope, Time, Cost, and Quality"
+citekey: "pradeepProjectManagement2024"
+type: literaturenote
+tags: 
+summary: ""
+year: '2024'
+url: "https://www.jiitak.com/blog/project-management-diamond-guide"
+authors: " Pradeep, "
 ---
-
 
 > [!Cite] 
 > Pradeep. ‘The Project Management Diamond: A Comprehensive Guide to Balancing Scope, Time, Cost, and Quality’. 2024. [https://www.jiitak.com/blog/project-management-diamond-guide](https://www.jiitak.com/blog/project-management-diamond-guide).

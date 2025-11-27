@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"003 Extra oefeningen Projectmanagement","created":"2025-11-02T20:44:27.937+01:00","modified":"2025-11-02T20:44:27.937+01:00","cssclasses":""}
+{"publish":true,"title":"003 Extra oefeningen Projectmanagement","created":"2025-08-26T10:37:01.257+02:00","modified":"2025-11-27T09:04:30.074+01:00","cssclasses":""}
 ---
 
 

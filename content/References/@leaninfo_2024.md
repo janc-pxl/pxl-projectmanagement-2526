@@ -1,7 +1,15 @@
 ---
-{"publish":true,"title":"Stroomdiagram - Een flowchart maakt uw proces inzichtelijk | LeanInfo.nl","created":"2024-09-06T18:35:09.721+02:00","modified":"2025-08-22T14:08:13.321+02:00","cssclasses":""}
+publish: true
+category: References
+title: "Stroomdiagram - Een flowchart maakt uw proces inzichtelijk | LeanInfo.nl"
+citekey: "leaninfo_2024"
+type: literaturenote
+tags: 
+summary: ""
+year: '2024'
+url: "https://www.leaninfo.nl/stroomdiagram/"
+authors: " Leaninfo"
 ---
-
 
 > [!Cite] 
 > Leaninfo. (2024). Stroomdiagram—Een flowchart maakt uw proces inzichtelijk | LeanInfo.nl. _Leaninfo_. [https://www.leaninfo.nl/stroomdiagram/](https://www.leaninfo.nl/stroomdiagram/)
