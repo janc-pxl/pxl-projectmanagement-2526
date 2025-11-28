@@ -1,8 +1,7 @@
 ---
-publish: true
-category: Het Gezin PeeTers
-title: Goedgekeurde PracTische vragen over Projectmanagement
+{"publish":true,"title":"Goedgekeurde PracTische vragen over Projectmanagement","created":"2024-09-10T15:14:38.755+02:00","modified":"2025-11-28T10:04:52.124+01:00","cssclasses":""}
 ---
+
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |

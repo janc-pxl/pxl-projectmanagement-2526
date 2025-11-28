@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-27T09:14:24.839+01:00","cssclasses":""}
+{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-28T10:34:18.628+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -914,6 +914,7 @@ Acceptatie Criteria:
 > - **De Definition of Done** is als een algemene checklist voor **alles** wat het team doet.
 >- **Acceptatie Criteria** zijn als een specifieke takenlijst voor **één bepaald** onderdeel (vb een Story heeft zijn eigen criteria).
 
+![](https://i.imgur.com/l8YTruN.png)
 
 ### Scrum bord
 
