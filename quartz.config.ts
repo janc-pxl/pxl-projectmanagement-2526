@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Project Management",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    // enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
