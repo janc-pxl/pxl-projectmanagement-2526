@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-28T13:54:29.816+01:00","cssclasses":""}
+{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-28T14:01:51.972+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -179,6 +179,7 @@ Empirisch denken kan je op die manier begrijpen:
 Dit is de kern van hoe Scrum werkt: we doen, we kijken, we leren, en we verbeteren. Het is een cyclus die steeds doorgaat, waardoor we flexibel blijven en snel kunnen reageren op veranderingen.
 
 > Het kan geen kwaad deze uit te printen, ze op je nachtkastje te leggen, ze af en toe te lezen en een traantje weg te pinken. Beschouw ze als mogelijk de waardevolste lessen die je dankzij Scrum kan leren.
+
 > [!tip] Tip
 > Hierna, in de [[007 Agile Projectmanagement#Scrum Waarden]], gaan we dieper in op de manier waarop de empirische gedachte in Scrum is uitgewerkt. 
 
