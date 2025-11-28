@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-28T14:01:51.972+01:00","cssclasses":""}
+{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-28T14:11:07.043+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -410,7 +410,7 @@ Hoe hangt Scrum nu aan elkaar? En welke zijn de vijf Scrum Events?
 > 4. De [[007 Agile Projectmanagement#Sprint Retrospective]]-meeting
 > 5. De [[007 Agile Projectmanagement#Sprints\|Sprint]]
 
-De Sprint begint met de Sprint Planning waarin we plannen wat we gaan maken, we hebben de dagelijkse Daily Scrums waarin we mogelijke obstakels zo vlug mogelijk oplossen. Op het eind van een Sprint wordt getoond wat er gemaakt werd tijdens de Sprint Review en ten slotte gaat het team tijdens de Sprint Retrospective terugblikken naar de voorbije Sprint om te bepalen hoe hun werkwijzen nog te verbeteren.
+De ==Sprint== begint met de ==Sprint Planning== waarin we plannen wat we gaan maken, we hebben de dagelijkse ==Daily Scrums== waarin we mogelijke obstakels zo vlug mogelijk oplossen. Op het eind van een Sprint wordt getoond wat er gemaakt werd tijdens de ==Sprint Review== en ten slotte gaat het team tijdens de ==Sprint Retrospective== terugblikken naar de voorbije Sprint om te bepalen hoe hun werkwijzen nog te verbeteren.
 
 Merk op dat de [[007 Agile Projectmanagement#Product Backlog Refinement]] – al is het een gebruikelijk event, en zeker geen onbelangrijk – niet tussen de vijf officiële Scrum Events staat.  
 
