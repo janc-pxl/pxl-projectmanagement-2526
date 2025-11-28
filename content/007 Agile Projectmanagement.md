@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-28T10:34:18.628+01:00","cssclasses":""}
+{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-28T10:58:45.332+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
@@ -449,10 +449,6 @@ Sommige teams kiezen bepaalde taken aan bepaalde ontwikkelaars toe te wijzen, ma
 
 #### User Stories en Epics
 
-> [!caption]
-> ![](https://i.imgur.com/2nUIGtg.png)
-> Afbeelding: User stories en acceptatiecriteria [[References/@productplan_2022]]
-
 Een **User Story** is een Agile en Scrum werkinstrument dat als doel heeft producten (*"software"*) te beschrijven vanuit het standpunt van een eindgebruiker. 
 
 ==Herinner je dat we in het begin van deze cursus over Increments spraken? Een User Story is het perfecte voorbeeld van een Increment in Scrum.==
@@ -477,6 +473,8 @@ voorbeeld:
 Agile en Scrum laten ontwikkelaars werken aan taken beschreven door User Stories.
 
 **Epics**, in Agile en Scrum, verwijzen naar grotere blokken werk (grote taken) die we vervolgens verder verdelen in User Stories (kleinere taken)
+
+![](https://i.imgur.com/iLR6f5J.png)
 
 Zowel Epics als Stories zijn voorbeelden van [[007 Agile Projectmanagement#Product Backlog item]]s (PBIs).
 
@@ -1059,7 +1057,6 @@ Je kunt perfect zien hoeveel tijd het team heeft besteed aan de story. Wees in d
 - [[References/@agilescrumgroup_2017\|@agilescrumgroup_2017]]: _'Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)'_ -  **Agile Scrum Group,(2017)** https://agilescrumgroup.nl/wat-is-definition-of-done/<br/><br/>
 - [[References/@agile4all_2019\|@agile4all_2019]]: _'Sprint Planning'_ -  **agile4all,(2019)** https://www.agile4all.nl/sprint-planning/<br/><br/>
 - [[References/@martin_2020\|@martin_2020]]: _'Incremental Model in SDLC: Use, Advantage & Disadvantage'_ -  **Martin, Matthew(2020)** https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html<br/><br/>
-- [[References/@productplan_2022\|@productplan_2022]]: _'User Story'_ -  **productplan,(2022)** https://www.productplan.com/glossary/user-story/<br/><br/>
 - [[References/@qframe_2021\|@qframe_2021]]: _'Scrum Master, Teambuilder of Agile Coach?'_ -  **qframe,(2021)** https://qframe.be/2021/06/25/scrum-master-teambuilder-of-agile-coach/<br/><br/>
 - [[References/@raghuprasad_2019\|@raghuprasad_2019]]: _'Basics of Sprint Planning - WHAT'_ -  **Raghuprasad,(2019)** https://agilebatech.com/what-is-sprint-planning/<br/><br/>
 - [[References/@scrumguide_2022\|@scrumguide_2022]]: _'Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl'_ -  **scrumguide,(2022)** https://scrumguide.nl/scrumteam/<br/><br/>
