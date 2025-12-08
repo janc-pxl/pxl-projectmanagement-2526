@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2025-08-26T10:37:01.281+02:00","modified":"2025-11-27T09:07:27.359+01:00","cssclasses":""}
+publish: true
+title: 008 Oefeningen Agile Projectmanagement
+category: content
+order: 8
 ---
-
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |
@@ -35,7 +37,7 @@ Als voorbeeld:
 ![](https://i.imgur.com/OLqIj8C.png)
 
 
-"**als** gebruiker **wil ik** me aanmelden via Facebook **zodat ik** op mijn persoonlijke pagina van 10.000 stappen terecht kom"
+"**Als** bezoeker **wil ik** me aanmelden via Facebook **zodat ik** op mijn persoonlijke pagina van 10.000 stappen terecht kom"
 
 Zoek nu op de hele website mogelijke stories (niet enkel op de "Aanmelden"-pagina).
 
