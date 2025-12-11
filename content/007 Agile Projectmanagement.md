@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-08-26T10:37:01.277+02:00","modified":"2025-11-28T14:11:07.043+01:00","cssclasses":""}
+{"publish":true,"title":"007 Agile Projectmanagement","created":"2025-11-28T15:13:44.645+01:00","modified":"2025-11-28T15:13:44.645+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |

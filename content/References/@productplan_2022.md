@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "User Story"
-authors: productplan,
-year: 2022 
-url: https://www.productplan.com/glossary/user-story/
+{"publish":true,"title":"User Story","created":"2024-05-13T11:02:42.011+02:00","modified":"2025-09-09T15:34:09.781+02:00","cssclasses":""}
 ---
+
 
 # User Story
 

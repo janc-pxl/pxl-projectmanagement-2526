@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"006 Risicomanagement","created":"2025-08-26T10:37:01.271+02:00","modified":"2025-11-27T09:06:57.789+01:00","cssclasses":""}
+{"publish":true,"title":"006 Risicomanagement","created":"2025-11-28T15:13:44.644+01:00","modified":"2025-11-28T15:13:44.645+01:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |

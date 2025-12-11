@@ -1,15 +1,7 @@
 ---
-publish: true
-category: References
-title: "What is Microsoft Project? A Comprehensive Overview"
-citekey: "gillinghamWhatMicrosoft2023"
-type: literaturenote
-tags: 
-summary: ""
-year: '2023'
-url: "https://www.invensislearning.com/blog/what-is-microsoft-project/"
-authors: " Gillingham, Jacob"
+{"publish":true,"title":"What is Microsoft Project? A Comprehensive Overview","created":"2025-09-11T11:56:43.972+02:00","modified":"2025-09-11T11:56:43.972+02:00","cssclasses":""}
 ---
+
 
 > [!Cite] 
 > Gillingham, Jacob. ‘What Is Microsoft Project? A Comprehensive Overview’. _Invensis Learning Blog_, 16 augustus 2023. [https://www.invensislearning.com/blog/what-is-microsoft-project/](https://www.invensislearning.com/blog/what-is-microsoft-project/).

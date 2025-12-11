@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: "Improvement tools: Critical success factors and key performance indicators"
-authors: Government of Western Australia,
-year: 2017 
-url: https://www.agric.wa.gov.au/improvement-tools-critical-success-factors-and-key-performance-indicators
+{"publish":true,"title":"Improvement tools: Critical success factors and key performance indicators","created":"2024-05-13T11:02:42.010+02:00","modified":"2025-08-22T14:07:57.330+02:00","cssclasses":""}
 ---
+
 
 # Improvement tools: Critical success factors and key performance indicators
 

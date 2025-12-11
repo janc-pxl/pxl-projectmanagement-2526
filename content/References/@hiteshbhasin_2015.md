@@ -1,11 +1,7 @@
 ---
-publish: true
-category: References
-title: What is Product portfolio management ?
-authors: Hitesh Bhasin,
-year: 2015 
-url: https://www.marketing91.com/product-portfolio/
+{"publish":true,"title":"What is Product portfolio management ?","created":"2024-05-13T11:02:42.010+02:00","modified":"2025-08-22T14:08:00.381+02:00","cssclasses":""}
 ---
+
 
 # What is Product portfolio management ?
 

@@ -1,9 +1,7 @@
 ---
-publish: true
-title: 008 Oefeningen Agile Projectmanagement
-category: content
-order: 8
+{"publish":true,"title":"008 Oefeningen Agile Projectmanagement","created":"2025-12-11T07:58:54.478+01:00","modified":"2025-12-11T09:51:21.581+01:00","cssclasses":""}
 ---
+
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **OLOD**          | 42TIN1250 Projectmanagement                                                                                              |
@@ -189,3 +187,6 @@ Door deze methode worden de antwoorden van elk lid transparant en kan de discuss
 
 Doe een Sprint Retrospective, waar je terugkijkt hoe jullie als team de opdrachten van Permanente Evaluaties hebben aangepakt.
 
+![](https://i.imgur.com/uXOTqRX.png)
+
+Je kan de tool https://retrotool.io/ gebruiken om je retrospective online te organiseren

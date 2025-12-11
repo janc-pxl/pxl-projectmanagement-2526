@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"009 Informatiemanagement","created":"2025-08-26T10:37:01.285+02:00","modified":"2025-11-27T09:07:35.581+01:00","cssclasses":""}
+{"publish":true,"title":"009 Informatiemanagement","created":"2024-05-14T18:55:44.827+02:00","modified":"2025-09-09T15:49:55.381+02:00","cssclasses":""}
 ---
 
 | Projectmanagement | © Hogeschool PXL                                                                                                         |
